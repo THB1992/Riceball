@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-applet-07",
+    "texture": "f335950a-ce03-4259-9e8b-d8f911de3b52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      336,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      336,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "knife-param",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "captureSpeed": 300,
+      "releaseSpeed": 1000,
+      "adjustMoreSpeed": 600,
+      "adjustLessSpeed": 1500
+    }
+  ]
+}

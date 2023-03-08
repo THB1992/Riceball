@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-reborn-02",
+    "texture": "b5d94f66-c754-4e64-9e70-50f51e4e6e3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      67
+    ],
+    "capInsets": [
+      29,
+      9,
+      24,
+      30
+    ]
+  }
+}

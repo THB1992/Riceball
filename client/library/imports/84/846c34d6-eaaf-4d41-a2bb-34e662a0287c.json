@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-ineedweapon-02",
+    "texture": "a4e30014-4a9f-4262-a274-bc882539964c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

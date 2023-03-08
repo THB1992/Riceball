@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tutorial-toptips-05",
+    "texture": "19c5c3f3-511f-49bf-b4eb-c7aa34bd31a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      464,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      464,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

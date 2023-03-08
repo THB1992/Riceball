@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice-doublekill",
+    "texture": "ff34ec25-a64b-4013-89a6-a9d26e9a4275",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      383,
+      168
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      383,
+      168
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

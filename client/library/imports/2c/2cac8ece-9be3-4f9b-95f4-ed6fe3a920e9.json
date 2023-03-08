@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-buyskins-02",
+    "texture": "e4500322-7ab9-4095-bc54-d45f94d9751d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

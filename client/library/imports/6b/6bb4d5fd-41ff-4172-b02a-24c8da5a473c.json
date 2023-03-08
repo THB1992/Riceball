@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-rank-03",
+    "texture": "bce708fb-32d8-424e-8d60-740844276415",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

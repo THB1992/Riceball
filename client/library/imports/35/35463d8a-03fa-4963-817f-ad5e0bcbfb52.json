@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-batman-12",
+    "texture": "2e13c46d-3052-4a3a-b69c-d820ea1da529",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      120,
+      123,
+      127,
+      123
+    ]
+  }
+}

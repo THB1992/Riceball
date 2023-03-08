@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice-sevenkill",
+    "texture": "bd6d94b1-9ffb-40c1-a8ac-d598eff9b7ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      179
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

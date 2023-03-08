@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-yellow-large",
+    "texture": "441d5440-a9c3-4c53-b800-2c0cf99abd20",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

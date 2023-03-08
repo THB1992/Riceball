@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "defensive-stance-03",
+    "texture": "62badc26-fafd-4e02-9257-d67d68b5b58f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

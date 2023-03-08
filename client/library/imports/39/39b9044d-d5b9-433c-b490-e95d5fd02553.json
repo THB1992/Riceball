@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reddot-05",
+    "texture": "77d581dd-0805-4dc2-bdfb-eaa4dddc948e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

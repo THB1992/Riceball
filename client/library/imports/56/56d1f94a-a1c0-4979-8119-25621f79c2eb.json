@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-nezha-03",
+    "texture": "124631e8-a3c4-4ca1-82a7-631b54398e58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      107,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      135
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

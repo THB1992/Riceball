@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrow-skins",
+    "texture": "488e92e0-6439-4550-9f66-5bc77556ad15",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

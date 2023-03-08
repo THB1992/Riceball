@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-restore-purchase",
+    "texture": "9f193783-1cda-4a4a-a82e-1fb5aec078c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

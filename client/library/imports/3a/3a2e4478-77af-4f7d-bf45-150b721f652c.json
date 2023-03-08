@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-lijibaozou",
+    "texture": "1e5b3233-df42-48ba-bf74-7c7d2a8f5286",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      510,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      510,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

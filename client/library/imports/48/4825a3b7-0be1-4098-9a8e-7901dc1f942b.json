@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battle-stance-06",
+    "texture": "fddb09e9-d0b5-415d-b8e3-3a64f5b37b55",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      206,
+      207
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      206,
+      207
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

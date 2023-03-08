@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-tripled-ad",
+    "texture": "23d1733e-7e1c-45d0-9ef6-46be47dc7f9f",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      79,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

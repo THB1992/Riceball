@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-tripled-free",
+    "texture": "b896e1c5-2ee3-4a0e-98a2-d9cb5c339069",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

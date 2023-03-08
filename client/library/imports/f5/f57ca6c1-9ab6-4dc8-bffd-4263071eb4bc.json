@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-item-magnet",
+    "texture": "ce8b39ec-bf4e-4a29-9dfb-727dd78c0cad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

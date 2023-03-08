@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-gold-04",
+    "texture": "0b5ec6b4-1297-42ef-aa8a-d697689c170a",
+    "atlas": "",
+    "rect": [
+      11,
+      0,
+      16,
+      39
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      39,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

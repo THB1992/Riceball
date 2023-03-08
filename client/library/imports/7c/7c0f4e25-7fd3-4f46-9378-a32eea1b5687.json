@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-zhuanquan",
+    "texture": "423d0b0a-ec05-4cba-a6f8-d36a1bd07df1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      153
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

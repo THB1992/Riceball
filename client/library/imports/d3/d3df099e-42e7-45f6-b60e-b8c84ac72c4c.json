@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-pkrank",
+    "texture": "5742607d-6e21-4bbb-89d8-e63d4102425f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

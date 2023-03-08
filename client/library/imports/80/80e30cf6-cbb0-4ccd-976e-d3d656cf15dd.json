@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "walllight-danger",
+    "texture": "dc0eaba9-aa78-4d9b-87f4-73e8c9e7c022",
+    "atlas": "",
+    "rect": [
+      0,
+      51,
+      128,
+      77
+    ],
+    "offset": [
+      0,
+      -25.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

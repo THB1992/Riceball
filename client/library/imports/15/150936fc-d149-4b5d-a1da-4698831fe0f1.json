@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-buyskins-04",
+    "texture": "19494f41-2e4c-4f61-997c-0cbc9c67bd60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

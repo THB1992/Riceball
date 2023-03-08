@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ultraman-skill-05",
+    "texture": "ef17b37b-2e20-4b6b-8617-80f67acd6b82",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      182
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

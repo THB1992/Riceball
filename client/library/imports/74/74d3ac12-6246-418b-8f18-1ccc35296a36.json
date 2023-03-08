@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-recharge-01",
+    "texture": "288b8500-3eed-4133-81a8-4209a2fe8509",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      495,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      495,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-mission",
+    "texture": "ce6f5833-3747-4789-808e-96bbaa9849c1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

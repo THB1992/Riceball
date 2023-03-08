@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-tutorialstage-01",
+    "texture": "263577d2-5113-4b7d-914a-d7f11871d166",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

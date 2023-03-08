@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank-necklace",
+    "texture": "31e96475-b844-440f-83bd-da641d65d3c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

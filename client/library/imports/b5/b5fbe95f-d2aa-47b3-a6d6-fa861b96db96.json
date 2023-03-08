@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-baozou",
+    "texture": "37be0e6b-0e21-42f9-b53c-155818e8c372",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

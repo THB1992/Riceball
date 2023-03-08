@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dao32-shadow",
+    "texture": "f2e8a42f-b3cc-4824-8565-445491624630",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      203,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-pk-34",
+    "texture": "6f27a1c5-100d-4904-a05d-b43f36ceff70",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

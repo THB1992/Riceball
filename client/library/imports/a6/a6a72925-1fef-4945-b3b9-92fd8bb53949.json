@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-weapons-generate-01",
+    "texture": "f7172265-5613-407e-b3f5-0ab2efd259dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

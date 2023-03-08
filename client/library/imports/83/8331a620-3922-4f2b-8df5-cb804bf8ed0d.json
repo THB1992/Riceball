@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "map-tutorialstage",
+    "texture": "337dbd60-380c-469d-8c73-46fa7dcd512f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      168
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      168
+    ],
+    "capInsets": [
+      79,
+      80,
+      79,
+      80
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-countdown",
+    "texture": "3e67056b-a7ca-43a3-9ca5-8fbcdd25b05b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      491,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      491,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

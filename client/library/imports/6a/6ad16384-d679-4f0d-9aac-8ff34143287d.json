@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-friends-01",
+    "texture": "7701879a-0cfa-40d9-8f42-ab76a9247f7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      607,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      607,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

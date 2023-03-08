@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-destroy-01",
+    "texture": "28f0f575-d59e-430d-828f-839bf5591ab4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

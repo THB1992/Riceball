@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "time-countdown-02",
+    "texture": "3f2022e6-8d94-4d2b-b1e6-6b50f9dd07b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      491,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      491,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

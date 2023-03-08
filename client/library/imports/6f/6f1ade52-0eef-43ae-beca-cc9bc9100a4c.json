@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-chest-07",
+    "texture": "457f18f6-ec33-4659-abe0-53f96e9bff2d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

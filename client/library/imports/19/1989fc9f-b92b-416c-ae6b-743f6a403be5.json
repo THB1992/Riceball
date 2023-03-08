@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-upgrade-15",
+    "texture": "acdd6f68-bd5d-49aa-b00f-c9e7bc0088a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

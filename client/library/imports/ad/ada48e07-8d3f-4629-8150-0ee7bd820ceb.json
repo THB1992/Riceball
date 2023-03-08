@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-trial-06",
+    "texture": "14de6d1f-b88f-4990-b30e-b9c4e57a15b0",
+    "atlas": "",
+    "rect": [
+      31,
+      45,
+      212,
+      179
+    ],
+    "offset": [
+      15.5,
+      -8.5
+    ],
+    "originalSize": [
+      243,
+      252
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

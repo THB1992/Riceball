@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dao23-shadow",
+    "texture": "90371a6a-1c7d-4937-8bf9-32c5a878b363",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-pikachu-skill-03",
+    "texture": "4e2a1a9f-8769-4db8-b3cd-4975fe168d97",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      227
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      227
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

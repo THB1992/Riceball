@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-rankinfo-13",
+    "texture": "c9364100-074a-44f1-8ae0-7bd1a9155fef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      197,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      197,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

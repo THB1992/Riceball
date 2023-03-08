@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-money-gold",
+    "texture": "0973c1be-864d-4460-aad8-802629ebff7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

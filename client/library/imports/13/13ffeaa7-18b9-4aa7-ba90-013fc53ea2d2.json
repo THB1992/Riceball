@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-buyskins-02",
+    "texture": "f99d503e-f3f5-4ff8-bbcc-4b70269754b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

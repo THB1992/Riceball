@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-taozhuang-14",
+    "texture": "ea3e8662-d359-4f71-9965-a4d9ea56c95a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      534,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      534,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battle-bg-lebo",
+    "texture": "9749a299-040a-482b-8760-bc432ade3e40",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      198,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

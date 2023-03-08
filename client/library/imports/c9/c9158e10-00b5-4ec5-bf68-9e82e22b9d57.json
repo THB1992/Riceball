@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-btn",
+    "texture": "3424fe0a-b96e-49ba-ac76-7453dc917e4b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

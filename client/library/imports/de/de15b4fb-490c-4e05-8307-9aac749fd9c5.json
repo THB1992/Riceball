@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-pikachu-04",
+    "texture": "e1dea82d-5539-4bdf-a3d5-4fb5546dc3f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

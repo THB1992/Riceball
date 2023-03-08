@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "walllight",
+    "texture": "1251e61d-ffee-4c46-adbf-1c3b120078f8",
+    "atlas": "",
+    "rect": [
+      0,
+      51,
+      128,
+      77
+    ],
+    "offset": [
+      0,
+      -25.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

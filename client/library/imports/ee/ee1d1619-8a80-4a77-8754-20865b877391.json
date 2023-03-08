@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-sudu",
+    "texture": "2b9edf8f-f11a-4537-8519-f27f5a63cc89",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      27,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      27,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

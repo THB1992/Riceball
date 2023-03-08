@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mark-triangle",
+    "texture": "07bdadb5-646f-4c9d-ae77-260dceaba66d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      18,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      18,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

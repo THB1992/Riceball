@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-six-knives",
+    "texture": "b0348dfe-627f-4082-b11c-bf2bfd16f7b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

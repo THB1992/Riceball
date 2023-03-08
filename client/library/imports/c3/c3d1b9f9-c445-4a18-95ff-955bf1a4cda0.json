@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-reborn-2",
+    "texture": "d5269b35-032f-40b0-b438-c934c0bb33aa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

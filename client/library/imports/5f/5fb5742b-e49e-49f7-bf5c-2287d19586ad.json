@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-ineedweapon",
+    "texture": "2246c1a4-a25d-4c32-bd60-0b62981524ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

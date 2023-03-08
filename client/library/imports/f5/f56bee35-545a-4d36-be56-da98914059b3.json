@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-miss-01",
+    "texture": "2e00d4f8-7ab2-471f-a331-c328f4aec57e",
+    "atlas": "",
+    "rect": [
+      3,
+      5,
+      61,
+      33
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      68,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

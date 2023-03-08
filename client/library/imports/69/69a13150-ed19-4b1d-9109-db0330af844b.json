@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo-wait",
+    "texture": "c77de94c-2999-4775-8c35-0f652ec5b744",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      370,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      370,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

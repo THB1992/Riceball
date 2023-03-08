@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "manygold",
+    "texture": "38baefad-c9fa-4ff2-bf7a-0aede1d7a22d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

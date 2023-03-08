@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bar-baozou-02",
+    "texture": "1195dbd3-5c3e-44e3-8686-928d1a17ce54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

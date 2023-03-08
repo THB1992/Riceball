@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-rate-07",
+    "texture": "ab824d47-63a2-4534-9a35-71bde1d0085f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      209,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      209,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

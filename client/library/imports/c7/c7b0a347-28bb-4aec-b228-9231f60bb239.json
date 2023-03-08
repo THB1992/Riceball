@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-rankup-05",
+    "texture": "a9beb518-cf0e-452c-bb5e-a077cffd533d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      27,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      27,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

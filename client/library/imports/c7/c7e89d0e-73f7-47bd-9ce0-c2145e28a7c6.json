@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bar-rank-09",
+    "texture": "625c3d57-6ad3-46f7-b37a-b776a5d90a62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

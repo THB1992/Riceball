@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tag-equipped",
+    "texture": "35601d9a-2f4a-40a4-a1b7-2535a573df1f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

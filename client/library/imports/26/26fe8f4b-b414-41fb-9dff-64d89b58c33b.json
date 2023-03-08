@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-morerewards-04",
+    "texture": "162d948b-57d9-4803-b97b-0814782d6a41",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

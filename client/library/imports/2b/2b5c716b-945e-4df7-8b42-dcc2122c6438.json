@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame-killmessage-03",
+    "texture": "4349737b-d912-4e7d-b3b6-65e57138cbc3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

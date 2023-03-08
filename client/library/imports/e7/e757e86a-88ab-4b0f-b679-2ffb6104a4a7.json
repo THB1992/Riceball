@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab-hero",
+    "texture": "6b154dcb-e63d-4b27-81bb-9d9b3a170259",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      247
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      247
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-nezha-s",
+    "texture": "19731fb2-f167-4dde-bb79-addf84cec717",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

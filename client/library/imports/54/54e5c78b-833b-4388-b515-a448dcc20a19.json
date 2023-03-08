@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-rankupgrade-01",
+    "texture": "c42000b0-23f9-4c07-bd1f-6125765d03ec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      470,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      470,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

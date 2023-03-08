@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-money-diamond",
+    "texture": "b983f97c-0c20-47a6-9a11-2ae43e164d9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

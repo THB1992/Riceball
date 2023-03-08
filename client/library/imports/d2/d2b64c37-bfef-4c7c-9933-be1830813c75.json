@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-chest-06",
+    "texture": "b5b42983-cd4d-4a6b-ba0f-7b07dc20ff2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

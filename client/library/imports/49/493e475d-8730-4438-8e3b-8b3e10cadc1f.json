@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-item-speed-02",
+    "texture": "0e1d1b8f-843d-4b72-87d7-80b24db72aa2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

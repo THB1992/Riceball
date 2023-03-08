@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-rank-star-01",
+    "texture": "319da571-9200-450b-b05e-d10dc0a3eb27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

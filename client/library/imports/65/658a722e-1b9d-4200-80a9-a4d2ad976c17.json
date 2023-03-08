@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tutorial-round",
+    "texture": "7b8b2303-40c3-4ce1-81fe-54b1300f134b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

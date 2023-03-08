@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-victory-02",
+    "texture": "99c2b910-c4ec-4679-b805-cd1ae87556c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      357,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      357,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-combat-03",
+    "texture": "7ccc8d4c-bbe1-4986-8af9-d064182cecd4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      279,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

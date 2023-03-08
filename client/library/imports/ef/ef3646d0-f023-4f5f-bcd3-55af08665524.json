@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-message-03",
+    "texture": "b5e97ac2-2a5c-4790-ab19-cff0b799f7de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      494,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      494,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

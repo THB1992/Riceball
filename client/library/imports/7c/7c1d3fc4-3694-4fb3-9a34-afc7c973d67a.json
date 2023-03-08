@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btni-noads",
+    "texture": "c8c5f1cb-7302-4445-8d9e-623232e2e697",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

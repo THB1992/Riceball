@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-skins-28",
+    "texture": "05589c0c-9b9b-4cc8-a5fe-6ae811f0e9e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

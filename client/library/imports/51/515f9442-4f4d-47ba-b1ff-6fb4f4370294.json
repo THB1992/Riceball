@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold-offline-05",
+    "texture": "7ad4c57b-d66a-43af-a8cc-9db7f0e37c87",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      12
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

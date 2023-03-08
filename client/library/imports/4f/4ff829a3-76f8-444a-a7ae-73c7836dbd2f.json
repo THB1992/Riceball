@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-item-bigger-03",
+    "texture": "4fccae5d-d4d8-4b93-a13a-3c619621685d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

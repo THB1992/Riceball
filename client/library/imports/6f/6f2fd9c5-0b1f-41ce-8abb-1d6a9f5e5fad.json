@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reddot-sign-03",
+    "texture": "0a713e4d-3dff-4490-82d3-4cc26e3b6b33",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      109,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

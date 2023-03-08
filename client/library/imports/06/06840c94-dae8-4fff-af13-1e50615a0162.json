@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankup",
+    "texture": "fe4fd700-a5be-4b6d-8904-5eb5e9115906",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      719,
+      559
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      719,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

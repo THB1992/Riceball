@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-lucky-05",
+    "texture": "8034d771-0fcd-43bf-b6e7-8b9c5e78ab74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      570,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      570,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

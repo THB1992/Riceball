@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spiderman-silk",
+    "texture": "24c77279-4acc-4c89-8447-d445d86ae64d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      94
+    ],
+    "capInsets": [
+      13,
+      1,
+      115,
+      0
+    ]
+  }
+}

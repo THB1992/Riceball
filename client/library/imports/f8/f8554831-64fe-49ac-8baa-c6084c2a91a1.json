@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame-message-03",
+    "texture": "1f8915c2-bd50-4753-a639-3b52a6de73f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      346,
+      435
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      346,
+      435
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

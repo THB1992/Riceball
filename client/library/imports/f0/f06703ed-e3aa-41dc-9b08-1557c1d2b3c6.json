@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-tutorialstage-02",
+    "texture": "d3e8e303-4215-4fa8-86e8-c41d8c52edd4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      110
+    ],
+    "capInsets": [
+      53,
+      0,
+      50,
+      0
+    ]
+  }
+}

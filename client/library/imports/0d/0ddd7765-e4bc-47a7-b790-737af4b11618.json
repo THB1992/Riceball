@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-item-magnet-04",
+    "texture": "0bc7add2-fa74-4133-a5f5-9a11539a09bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      206,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      206,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

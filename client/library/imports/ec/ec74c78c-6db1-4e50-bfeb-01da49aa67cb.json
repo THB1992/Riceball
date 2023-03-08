@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-taozhuangget-02",
+    "texture": "68f02e23-eed4-4c29-b7cb-8e03b88238b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

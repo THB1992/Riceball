@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-item-bluechest",
+    "texture": "bdc93f46-8921-40dd-9e13-af6fe0efe858",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

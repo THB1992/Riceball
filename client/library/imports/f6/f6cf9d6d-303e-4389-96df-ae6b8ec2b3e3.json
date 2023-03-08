@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice-quadrakill",
+    "texture": "604fc626-3b1f-41ef-a9bd-f13a803a455f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      424,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      424,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

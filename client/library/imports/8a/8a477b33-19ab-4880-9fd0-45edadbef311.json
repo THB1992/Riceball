@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-invite-07",
+    "texture": "a693672f-0153-42aa-92b1-79ab8470114d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

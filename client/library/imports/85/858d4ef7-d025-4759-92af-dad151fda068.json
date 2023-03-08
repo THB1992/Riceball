@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nezha-skill-03",
+    "texture": "f4e3077f-47f9-4113-ac04-795dd43a602a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      208
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      208
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

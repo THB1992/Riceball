@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-jds-500",
+    "texture": "608958e5-e220-4d12-bbe4-ce8f7820427d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

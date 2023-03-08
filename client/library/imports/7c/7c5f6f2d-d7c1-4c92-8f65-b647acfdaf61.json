@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-mark-new",
+    "texture": "c8cb5d50-d35c-42a1-b508-1bba4ce08fde",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner-pk-03",
+    "texture": "b5d7e2b4-c24a-4d6c-8d21-f9d66da0cf77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

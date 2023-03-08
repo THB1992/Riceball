@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-artifact-03",
+    "texture": "b44adb7a-37eb-4639-b231-6b1c874c449d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      102
+    ],
+    "capInsets": [
+      0,
+      22,
+      0,
+      73
+    ]
+  }
+}

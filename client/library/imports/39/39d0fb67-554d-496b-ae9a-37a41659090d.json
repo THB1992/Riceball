@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-mission-13",
+    "texture": "eea6ebcb-4edd-4414-99e6-fb4960d782b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

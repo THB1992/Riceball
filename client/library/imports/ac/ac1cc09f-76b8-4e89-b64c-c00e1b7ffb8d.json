@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-reborn-02",
+    "texture": "ae751c40-358f-4649-9708-847e26c1456a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

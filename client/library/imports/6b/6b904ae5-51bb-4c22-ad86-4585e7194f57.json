@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice-triplekill",
+    "texture": "807866e9-9e70-42b7-8100-588e26880517",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      383,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      383,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

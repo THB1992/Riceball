@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-sign-10",
+    "texture": "e195e7d5-e570-4a44-8876-fbac8201fec9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

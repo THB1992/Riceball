@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "wall",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "wallTimeStart": 15,
+      "wallTimeLimit": 5,
+      "wallTimeMove": 5,
+      "wallTimeInterval": 30
+    }
+  ]
+}

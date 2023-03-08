@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bar-chest-blue",
+    "texture": "349c76a4-c6a3-463c-90b3-703b09429fea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

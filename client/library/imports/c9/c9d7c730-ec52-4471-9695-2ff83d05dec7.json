@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mjjtv4",
+    "texture": "859b0e10-8e81-4a70-9212-9c02e739a247",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      96,
+      95
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

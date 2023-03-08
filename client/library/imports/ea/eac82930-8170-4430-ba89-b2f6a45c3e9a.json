@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item-chest-blue",
+    "texture": "dbcb920a-70ae-4159-9a44-4008021a8864",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

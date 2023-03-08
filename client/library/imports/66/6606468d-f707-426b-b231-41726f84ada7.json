@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-tripled-share",
+    "texture": "9023ae2a-fa3e-41e7-ab61-137131321be9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      38
+    ],
+    "offset": [
+      -4.5,
+      0
+    ],
+    "originalSize": [
+      79,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

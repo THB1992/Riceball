@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice-hexakill",
+    "texture": "80957081-1eec-4782-bc8b-e5e82103b324",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      525,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      525,
+      158
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

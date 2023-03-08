@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-yellow-samll-02",
+    "texture": "0c773395-d831-4a3f-9d4f-083f3ee8d96e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

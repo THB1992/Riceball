@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice-pentakill",
+    "texture": "9a44d1cc-73a4-4e15-9129-9651ce26e8ce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      410,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      410,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

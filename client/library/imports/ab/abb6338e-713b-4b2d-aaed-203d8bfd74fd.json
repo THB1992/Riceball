@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-lucky-03",
+    "texture": "9bacdf0f-d78c-4354-8b0e-71adec18d651",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

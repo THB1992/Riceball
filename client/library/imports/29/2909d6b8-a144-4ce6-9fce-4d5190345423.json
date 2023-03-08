@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-mission-03",
+    "texture": "95ec0cbf-06be-41da-be47-8c1b97151ac3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      142
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

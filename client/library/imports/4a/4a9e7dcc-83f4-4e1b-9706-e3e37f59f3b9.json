@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bar-chest-gold",
+    "texture": "091d3fd4-8863-4eb9-99c4-8eaa9796f1dd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

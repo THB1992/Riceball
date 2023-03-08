@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-baozou-07",
+    "texture": "b43b9d3d-3290-4f80-914b-8add4f45dc3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      109,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

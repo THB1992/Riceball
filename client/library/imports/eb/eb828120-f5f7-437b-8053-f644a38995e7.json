@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reddot-pikachu",
+    "texture": "67ae9592-3f05-4e80-94d3-57b5a3f513f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

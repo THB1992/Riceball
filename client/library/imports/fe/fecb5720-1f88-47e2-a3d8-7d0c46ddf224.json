@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame-rank-protection-08",
+    "texture": "9f50a671-85b6-4c67-9a4b-bc93c67dde93",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

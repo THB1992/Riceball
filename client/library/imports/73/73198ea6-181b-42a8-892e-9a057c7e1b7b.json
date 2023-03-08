@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "holiday-ai-easy",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "time": [
+        9,
+        10
+      ],
+      "timeInterval": [
+        5,
+        20
+      ],
+      "scoreRange": [
+        1,
+        5
+      ],
+      "scoreLimit": [
+        5,
+        20
+      ]
+    },
+    {
+      "time": [
+        12,
+        13
+      ],
+      "timeInterval": [
+        5,
+        20
+      ],
+      "scoreRange": [
+        1,
+        5
+      ],
+      "scoreLimit": [
+        5,
+        20
+      ]
+    }
+  ]
+}

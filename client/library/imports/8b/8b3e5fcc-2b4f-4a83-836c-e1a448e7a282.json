@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-skins",
+    "texture": "00d6a138-cedc-48fd-84c1-72631054c04a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
