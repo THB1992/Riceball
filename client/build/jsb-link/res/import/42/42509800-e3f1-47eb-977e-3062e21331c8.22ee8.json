@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"effect-ultraman-skill-01","_duration":3,"sample":30,"wrapMode":"2","curveData":{"paths":{"a":{"props":{"angle":[{"frame":0,"value":0},{"frame":3,"value":-360}]}},"b":{"props":{"angle":[{"frame":0,"value":0},{"frame":3,"value":360}]}}}}}
