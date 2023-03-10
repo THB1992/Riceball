@@ -1,0 +1,523 @@
+{
+  "mtimes": {
+    "7e31281a-89b8-48c2-9867-76451cf61b8d": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419237
+    },
+    "04263e55-6033-4913-b56b-5dbc8b8f03e8": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419275
+    },
+    "90259ea7-6cef-404e-ba63-fbbb6132e44b": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419275
+    },
+    "0f64ebc8-518d-4082-8c0b-f39bb7ba3ed8": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419254
+    },
+    "86d2508c-f134-4301-a6ce-6910d4e9c887": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419254
+    },
+    "1cd7fb94-4494-4763-8afe-3c85174e514f": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419299
+    },
+    "fdcbf083-b36d-44a5-bc6f-c0b7baf16265": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419299
+    },
+    "36fef4ac-8c23-437d-b0cd-8e20d5027457": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419248
+    },
+    "3aff53b2-b745-44a5-94e6-771135f52413": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419248
+    },
+    "3bd7c2e9-0f8f-49e6-87a0-b24732af2ca6": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419310
+    },
+    "ecc4a7f7-90b9-4b0d-aed8-a65bb176abfe": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419310
+    },
+    "54310320-5bbd-4a21-a67d-cb6b22b346ee": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419297
+    },
+    "7568324c-f3da-431d-9b98-1e69b1d7fb10": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419297
+    },
+    "6f3e0e8a-bdec-4d58-a2e4-4b742bcd1dc9": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419261
+    },
+    "09634073-88c8-4cdf-8875-6a6b362e3961": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419261
+    },
+    "968dbdcf-492f-4d6d-93f8-d7899441c714": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419285
+    },
+    "318edadb-7f5e-4c10-93e8-8155e69fb98c": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419285
+    },
+    "9d7dfedc-f145-463f-bbfc-aa3ea79170d2": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419273
+    },
+    "90d39c09-1549-440d-a6a4-cb6abee3eff8": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419273
+    },
+    "abb6338e-713b-4b2d-aaed-203d8bfd74fd": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419259
+    },
+    "9bacdf0f-d78c-4354-8b0e-71adec18d651": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419259
+    },
+    "b93c73d4-202b-49aa-97b4-b1f0937df93b": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419266
+    },
+    "d8f90eea-d805-4140-9679-e5869c154812": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419266
+    },
+    "c7ab0a7c-b10d-4c60-9a13-a07f0108011d": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419320
+    },
+    "f96b6b69-3f94-41b0-9ee4-405544e383bb": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419320
+    },
+    "c8382536-2c0e-4aaa-9c0e-2cc2c99465b5": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419309
+    },
+    "b451f0d4-f1fb-48cb-af80-2b4ca8ff22f6": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419309
+    },
+    "db6acada-7506-4c41-bd17-d1b221fedded": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419287
+    },
+    "75c71685-26b0-4758-b699-d7ef58ba07a6": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419287
+    },
+    "f98b11fe-45f1-45d2-ac97-0705070257b9": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419319
+    },
+    "9e3b045b-71e7-45dd-a85b-473cfe7f36d5": {
+      "assetMtime": 1673253503000,
+      "metaMtime": 1674122419319
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-lucky",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "7e31281a-89b8-48c2-9867-76451cf61b8d",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "ui-lucky-07",
+            "uuid": "3bd7c2e9-0f8f-49e6-87a0-b24732af2ca6",
+            "textureUuid": "ecc4a7f7-90b9-4b0d-aed8-a65bb176abfe",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 988,
+              "height": 127,
+              "rotatedWidth": 127,
+              "rotatedHeight": 988
+            },
+            "rawWidth": 990,
+            "rawHeight": 127,
+            "width": 994,
+            "height": 133,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/ec/ecc4a7f7-90b9-4b0d-aed8-a65bb176abfe.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 133,
+            "rotatedHeight": 994
+          },
+          {
+            "name": "ui-lucky-05",
+            "uuid": "54310320-5bbd-4a21-a67d-cb6b22b346ee",
+            "textureUuid": "7568324c-f3da-431d-9b98-1e69b1d7fb10",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_5.png",
+            "trim": {
+              "x": 136,
+              "y": 3,
+              "width": 570,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 570
+            },
+            "rawWidth": 570,
+            "rawHeight": 128,
+            "width": 576,
+            "height": 134,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/75/7568324c-f3da-431d-9b98-1e69b1d7fb10.png",
+            "x": 133,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 134,
+            "rotatedHeight": 576
+          },
+          {
+            "name": "btn-lucky-01",
+            "uuid": "36fef4ac-8c23-437d-b0cd-8e20d5027457",
+            "textureUuid": "3aff53b2-b745-44a5-94e6-771135f52413",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_3.png",
+            "trim": {
+              "x": 136,
+              "y": 579,
+              "width": 370,
+              "height": 160,
+              "rotatedWidth": 370,
+              "rotatedHeight": 160
+            },
+            "rawWidth": 370,
+            "rawHeight": 160,
+            "width": 376,
+            "height": 166,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/3a/3aff53b2-b745-44a5-94e6-771135f52413.png",
+            "x": 133,
+            "y": 576,
+            "rotatedWidth": 376,
+            "rotatedHeight": 166
+          },
+          {
+            "name": "ui-lucky-03",
+            "uuid": "968dbdcf-492f-4d6d-93f8-d7899441c714",
+            "textureUuid": "318edadb-7f5e-4c10-93e8-8155e69fb98c",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_7.png",
+            "trim": {
+              "x": 136,
+              "y": 745,
+              "width": 136,
+              "height": 308,
+              "rotatedWidth": 308,
+              "rotatedHeight": 136
+            },
+            "rawWidth": 136,
+            "rawHeight": 308,
+            "width": 142,
+            "height": 314,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/31/318edadb-7f5e-4c10-93e8-8155e69fb98c.png",
+            "x": 133,
+            "y": 742,
+            "rotated": true,
+            "rotatedWidth": 314,
+            "rotatedHeight": 142
+          },
+          {
+            "name": "btn-lucky-03",
+            "uuid": "abb6338e-713b-4b2d-aaed-203d8bfd74fd",
+            "textureUuid": "9bacdf0f-d78c-4354-8b0e-71adec18d651",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_9.png",
+            "trim": {
+              "x": 450,
+              "y": 745,
+              "width": 224,
+              "height": 27,
+              "rotatedWidth": 27,
+              "rotatedHeight": 224
+            },
+            "rawWidth": 224,
+            "rawHeight": 27,
+            "width": 230,
+            "height": 33,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/9b/9bacdf0f-d78c-4354-8b0e-71adec18d651.png",
+            "x": 447,
+            "y": 742,
+            "rotated": true,
+            "rotatedWidth": 33,
+            "rotatedHeight": 230
+          },
+          {
+            "name": "ui-lucky-02",
+            "uuid": "04263e55-6033-4913-b56b-5dbc8b8f03e8",
+            "textureUuid": "90259ea7-6cef-404e-ba63-fbbb6132e44b",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629537_image_0.png",
+            "trim": {
+              "x": 136,
+              "y": 887,
+              "width": 270,
+              "height": 36,
+              "rotatedWidth": 270,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 270,
+            "rawHeight": 36,
+            "width": 276,
+            "height": 42,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/90/90259ea7-6cef-404e-ba63-fbbb6132e44b.png",
+            "x": 133,
+            "y": 884,
+            "rotatedWidth": 276,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "btn-lucky-02",
+            "uuid": "0f64ebc8-518d-4082-8c0b-f39bb7ba3ed8",
+            "textureUuid": "86d2508c-f134-4301-a6ce-6910d4e9c887",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_1.png",
+            "trim": {
+              "x": 412,
+              "y": 887,
+              "width": 84,
+              "height": 27,
+              "rotatedWidth": 27,
+              "rotatedHeight": 84
+            },
+            "rawWidth": 84,
+            "rawHeight": 27,
+            "width": 90,
+            "height": 33,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/86/86d2508c-f134-4301-a6ce-6910d4e9c887.png",
+            "x": 409,
+            "y": 884,
+            "rotated": true,
+            "rotatedWidth": 33,
+            "rotatedHeight": 90
+          },
+          {
+            "name": "ui-lucky-09",
+            "uuid": "c7ab0a7c-b10d-4c60-9a13-a07f0108011d",
+            "textureUuid": "f96b6b69-3f94-41b0-9ee4-405544e383bb",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_11.png",
+            "trim": {
+              "x": 136,
+              "y": 929,
+              "width": 41,
+              "height": 145,
+              "rotatedWidth": 145,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 41,
+            "rawHeight": 145,
+            "width": 47,
+            "height": 151,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/f9/f96b6b69-3f94-41b0-9ee4-405544e383bb.png",
+            "x": 133,
+            "y": 926,
+            "rotated": true,
+            "rotatedWidth": 151,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "ui-lucky-08",
+            "uuid": "c8382536-2c0e-4aaa-9c0e-2cc2c99465b5",
+            "textureUuid": "b451f0d4-f1fb-48cb-af80-2b4ca8ff22f6",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_12.png",
+            "trim": {
+              "x": 287,
+              "y": 929,
+              "width": 62,
+              "height": 62,
+              "rotatedWidth": 62,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 62,
+            "rawHeight": 62,
+            "width": 68,
+            "height": 68,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/b4/b451f0d4-f1fb-48cb-af80-2b4ca8ff22f6.png",
+            "x": 284,
+            "y": 926,
+            "rotatedWidth": 68,
+            "rotatedHeight": 68
+          },
+          {
+            "name": "ui-lucky-10",
+            "uuid": "f98b11fe-45f1-45d2-ac97-0705070257b9",
+            "textureUuid": "9e3b045b-71e7-45dd-a85b-473cfe7f36d5",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_14.png",
+            "trim": {
+              "x": 355,
+              "y": 929,
+              "width": 39,
+              "height": 54,
+              "rotatedWidth": 39,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 39,
+            "rawHeight": 54,
+            "width": 45,
+            "height": 60,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/9e/9e3b045b-71e7-45dd-a85b-473cfe7f36d5.png",
+            "x": 352,
+            "y": 926,
+            "rotatedWidth": 45,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "ui-lucky-04",
+            "uuid": "db6acada-7506-4c41-bd17-d1b221fedded",
+            "textureUuid": "75c71685-26b0-4758-b699-d7ef58ba07a6",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_13.png",
+            "trim": {
+              "x": 270,
+              "y": 3,
+              "width": 88,
+              "height": 512,
+              "rotatedWidth": 88,
+              "rotatedHeight": 512
+            },
+            "rawWidth": 88,
+            "rawHeight": 512,
+            "width": 94,
+            "height": 518,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/75/75c71685-26b0-4758-b699-d7ef58ba07a6.png",
+            "x": 267,
+            "y": 0,
+            "rotatedWidth": 94,
+            "rotatedHeight": 518
+          },
+          {
+            "name": "gold",
+            "uuid": "b93c73d4-202b-49aa-97b4-b1f0937df93b",
+            "textureUuid": "d8f90eea-d805-4140-9679-e5869c154812",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_10.png",
+            "trim": {
+              "x": 270,
+              "y": 521,
+              "width": 41,
+              "height": 41,
+              "rotatedWidth": 41,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 41,
+            "rawHeight": 41,
+            "width": 47,
+            "height": 47,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/d8/d8f90eea-d805-4140-9679-e5869c154812.png",
+            "x": 267,
+            "y": 518,
+            "rotatedWidth": 47,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "ui-lucky-01",
+            "uuid": "9d7dfedc-f145-463f-bbfc-aa3ea79170d2",
+            "textureUuid": "90d39c09-1549-440d-a6a4-cb6abee3eff8",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_8.png",
+            "trim": {
+              "x": 364,
+              "y": 3,
+              "width": 395,
+              "height": 78,
+              "rotatedWidth": 78,
+              "rotatedHeight": 395
+            },
+            "rawWidth": 395,
+            "rawHeight": 78,
+            "width": 401,
+            "height": 84,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/90/90d39c09-1549-440d-a6a4-cb6abee3eff8.png",
+            "x": 361,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 84,
+            "rotatedHeight": 401
+          },
+          {
+            "name": "ui-lucky-06",
+            "uuid": "1cd7fb94-4494-4763-8afe-3c85174e514f",
+            "textureUuid": "fdcbf083-b36d-44a5-bc6f-c0b7baf16265",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_2.png",
+            "trim": {
+              "x": 364,
+              "y": 404,
+              "width": 104,
+              "height": 96,
+              "rotatedWidth": 104,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 104,
+            "rawHeight": 96,
+            "width": 110,
+            "height": 102,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/fd/fdcbf083-b36d-44a5-bc6f-c0b7baf16265.png",
+            "x": 361,
+            "y": 401,
+            "rotatedWidth": 110,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "effect-btn-lucky",
+            "uuid": "6f3e0e8a-bdec-4d58-a2e4-4b742bcd1dc9",
+            "textureUuid": "09634073-88c8-4cdf-8875-6a6b362e3961",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122629538_image_6.png",
+            "trim": {
+              "x": 364,
+              "y": 506,
+              "width": 63,
+              "height": 117,
+              "rotatedWidth": 117,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 63,
+            "rawHeight": 117,
+            "width": 69,
+            "height": 123,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/09/09634073-88c8-4cdf-8875-6a6b362e3961.png",
+            "x": 361,
+            "y": 503,
+            "rotated": true,
+            "rotatedWidth": 123,
+            "rotatedHeight": 69
+          }
+        ],
+        "width": 509,
+        "height": 994,
+        "name": "AutoAtlas-lucky-1",
+        "imagePath": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\lucky\\AutoAtlas-lucky.pac\\AutoAtlas-lucky-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\lucky\\AutoAtlas-lucky.pac\\compressed\\AutoAtlas-lucky-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

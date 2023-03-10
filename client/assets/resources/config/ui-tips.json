@@ -286,5 +286,29 @@
     "es": "No se eliminó dinero de su cuenta",
     "fr": "Aucun argent n'a été retiré de votre compte",
     "pt": "Nenhum dinheiro foi removido da sua conta"
+  },
+  {
+    "id": 24,
+    "tip": "Link wallet to get free",
+    "japan": "ウォレットをリンクして無料にする",
+    "korea": "지갑을 연결하여 무료로 받으세요",
+    "pt": "Vincule a carteira para obter gratuitamente",
+    "de": "Wallet verknüpfen, um kostenlos zu werden",
+    "ru": "Привяжите кошелек, чтобы получить бесплатно",
+    "twn": "鏈接錢包以免費獲得",
+    "es": "Vincular billetera para obtener gratis",
+    "fr": "Liez le portefeuille pour obtenir gratuitement"
+  },
+  {
+    "id": 25,
+    "tip": "The request is successful. Please log in to wallet later",
+    "japan": "リクエストは成功です。後でウォレットにログインしてください",
+    "korea": "요청이 성공했습니다. 나중에 지갑에 로그인하십시오",
+    "pt": "A solicitação foi bem-sucedida. Faça login na carteira mais tarde",
+    "de": "Die Anfrage ist erfolgreich. Bitte melden Sie sich später bei Wallet an",
+    "ru": "Запрос выполнен успешно. Пожалуйста, войдите в кошелек позже",
+    "twn": "請求成功。請稍後登錄錢包",
+    "es": "La solicitud es exitosa. Inicie sesión en la billetera más tarde",
+    "fr": "La demande est réussie. Veuillez vous connecter au portefeuille plus tard"
   }
 ]

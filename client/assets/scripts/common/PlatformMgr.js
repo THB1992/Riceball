@@ -51,7 +51,7 @@ const PlatformMgr = cc.Class({
         /** 默认渠道 */
         channelType: ChannelType.RiceBall_2,
         /**nft功能开关 */
-        open_nft_moudle: false,
+        open_nft_moudle: true,
         /**nft测试：余额 */
         nft_balance_ids: {},
         /**nft测试：玩家购买数据 */
@@ -1612,7 +1612,7 @@ const PlatformMgr = cc.Class({
                     console.log('web3_gm_api resonse data:' + JSON.stringify(obj));
                     // cb1 && cb1(obj)
                 }
-                if(cb1){
+                if (cb1) {
                     cb1(obj)
                 }
             }, () => {
@@ -1620,7 +1620,7 @@ const PlatformMgr = cc.Class({
                     console.error('web3_gm_api error, url:' + url + ' param:' + JSON.stringify(param));
                     // cb2 && cb2(obj) 
                 }
-                if(cb2){
+                if (cb2) {
                     cb2()
                 }
             });
@@ -1628,7 +1628,7 @@ const PlatformMgr = cc.Class({
 
         //查询是否还有余额，表示可以领取
         qureyBalance: function () {
-            if(!PlatformMgr.open_nft_moudle){
+            if (!PlatformMgr.open_nft_moudle) {
                 return
             }
             // PlatformMgr.web3_gm_api("qureyBalanceFromChain", "",
@@ -1672,10 +1672,9 @@ const PlatformMgr = cc.Class({
                 }
             )
         },
-
         //查询玩家NFT资产
-        checkUserNFT: function () {
-            if(!PlatformMgr.open_nft_moudle){
+        checkUserNFT: function (adress,callback) {
+            if (!PlatformMgr.open_nft_moudle) {
                 return
             }
             // if(PlatformMgr.playerData.bitverseWallet==""){
@@ -1686,7 +1685,7 @@ const PlatformMgr = cc.Class({
 
             let uuid = Tools.getItem('user_uuid') || 0
             let country = PlatformMgr.getCountry() || ""
-            let adress = PlatformMgr.playerData.bitverseWallet || "1"
+            adress = adress || "1"
 
             let pramStr = `uuid=${uuid}&country=${country}&adress=${adress}`
             PlatformMgr.web3_gm_api("checkNFTFormDB", pramStr,
@@ -1711,6 +1710,9 @@ const PlatformMgr = cc.Class({
                                 }
                             }
                             PlatformMgr.nft_user_datas = ids
+                            if(callback){
+                                callback(true)
+                            }
                             return ids
                         } else {
                             console.log("rsp.data null")
@@ -1730,11 +1732,11 @@ const PlatformMgr = cc.Class({
         },
 
         //发起一条NFT领取请求
-        requestNFTGet: function (data) {
-            if(!PlatformMgr.open_nft_moudle){
+        requestNFTGet: function (data,adress,callback) {
+            if (!PlatformMgr.open_nft_moudle) {
                 return
             }
-            if(data.getWay!=100) return
+            if (data.getWay != 100) return
 
             // if(PlatformMgr.playerData.bitverseWallet==""){
             //     PlatformMgr.connectBitverse()
@@ -1744,7 +1746,7 @@ const PlatformMgr = cc.Class({
 
             let uuid = Tools.getItem('user_uuid') || ""
             let country = PlatformMgr.getCountry() || ""
-            let adress = PlatformMgr.playerData.bitverseWallet || ""
+            adress = adress || ""
             let goodsId = data.goodsId
             let goodsName = encodeURIComponent(data.goodsName)
             let name = encodeURIComponent(data.name)
@@ -1753,22 +1755,29 @@ const PlatformMgr = cc.Class({
             PlatformMgr.web3_gm_api("requestNFT", pramStr,
                 (rsp) => {
                     if (rsp.result == 200) {
+                        if(callback){
+                            callback()
+                        }
                         if (rsp.data) {
                             //tokenid拼接字符串
                             let dataStr = rsp.data
-                            AdvertMgr.instance.showUITips(Tools.getStringByFormat(dataStr))
-                            return null
+                            // AdvertMgr.instance.showUITips(Tools.getStringByFormat(dataStr))
+                            AdvertMgr.instance.showUITips(25)
+                            return 1
                         } else {
                             console.log("rsp.data null")
-                            return null
+                            AdvertMgr.instance.showUITips(25)
+                            return 1
                         }
                     } else {
                         if (rsp.data) {
-                            AdvertMgr.instance.showUITips(Tools.getStringByFormat(rsp.data))
+                            // AdvertMgr.instance.showUITips(Tools.getStringByFormat(rsp.data))
+                            console.log("requestNFT AdvertMgr.instance.showUITips")
+                            AdvertMgr.instance.showUITips(25)
                         } else {
                             console.log("rsp result error", rsp.result)
                         }
-                        return null
+                        return 1
 
                     }
                 },

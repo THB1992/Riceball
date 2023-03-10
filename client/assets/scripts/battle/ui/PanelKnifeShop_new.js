@@ -430,9 +430,8 @@ cc.Class({
     },
 
     linkBtnClick: function () {
-        //NFT测试
-        var data = this.lastCheckItem.data;
-        PlatformMgr.requestNFTGet(data)
+        AdvertMgr.instance.fireBaseEvent("click_n_wallet_btn","page_id","shop");
+        this.world.uiMgr.showPanelNFT();
     },
 
     showShare: function (closeFunc) {

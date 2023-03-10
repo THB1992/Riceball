@@ -135,6 +135,8 @@ const GSHome = cc.Class({
 
         panelRank: cc.Node,
 
+        panelNFT: cc.Node,
+
         taskRedDot: cc.Node,
         taskPIKAQI: cc.Node,
         // gif: cc.Node,
@@ -157,6 +159,8 @@ const GSHome = cc.Class({
         addTopBtnNode: cc.Node,
         addTopRedDot: cc.Node,
         addTopRootNode: cc.Node,
+
+        nftRedDot: cc.Node,
 
         diamondNode: cc.Node,
         diamondLabel: cc.Label,
@@ -239,11 +243,6 @@ const GSHome = cc.Class({
             PlayerData.instance.showGold -= PlayerData.instance.getGoldParam.count;
         }
         
-        //新用户规则
-        if(PlatformMgr.open_nft_moudle){
-            this.nftActivityNode.active = PlayerData.instance.isFirstDay() && PlayerData.instance.playCount >= NFTUnLockType.PLAY_COUNT
-        }
-
         var rankData = PlayerData.instance.rankData;
         var star = PlayerData.instance.rankStar;
         this.rankNameLabel.string = rankData.name;
@@ -264,7 +263,7 @@ const GSHome = cc.Class({
         // this.gif.getComponent('Gif').enableDisplay();
 
         // this.panelCheatBtn.active = GameData.instance.isEnvironmentTest();
-        // this.panelCheatBtn.active = true
+        this.panelCheatBtn.active = true
 
         // this.addTopBtnNode.y = -100;
         // this.addTopRootNode.y = -100;
@@ -369,6 +368,18 @@ const GSHome = cc.Class({
         }
 
         this.checkPad();
+
+        if(PlatformMgr.open_nft_moudle && PlayerData.instance.nftLock==0){
+            //可展示
+            this.nftActivityNode.active = PlayerData.instance.playCount >= NFTUnLockType.PLAY_COUNT
+            //可领取
+            let canGet = PlayerData.instance.winCount >= NFTUnLockType.WIN_COUNT
+            this.nftRedDot.active = canGet
+        }
+        else{
+            this.nftRedDot.active = this.nftActivityNode.active = false
+
+        }
 
         //不是第一次启动的玩家,开屏广告没有的情况下，直接展示
         if (!PlayerData.instance.isFristGame()) {
@@ -969,7 +980,6 @@ const GSHome = cc.Class({
             var item = BagItem.createItemWithString(data.reward);
             this.singTipsLabel.string = item.num;
         }
-
     },
 
     refreshRankStar() {
@@ -1009,6 +1019,17 @@ const GSHome = cc.Class({
         this.activeDiamondNode(false);
         this.panelSign.active = true;
         this.panelSign.getComponent('PanelSign').init(this.world);
+    },
+
+    //点击NFT按钮
+    onPanelNFTBtnClick: function () {
+        AdvertMgr.instance.fireBaseEvent("click_n_wallet_btn","page_id","main");
+        // this.activeGoldNode(false);
+        // this.activeDiamondNode(false);
+        this.panelNFT.active = true;
+        let self = this
+        this.panelNFT.getComponent('PanelNFT').init(this.world);
+        AdvertMgr.instance.fireBaseEvent("nft_page_show","page_id","main");
     },
 
     onPanelDailyTaskBtnClick: function () {
@@ -1082,40 +1103,6 @@ const GSHome = cc.Class({
         }
     },
 
-    onConnectBtnClick: function () {
-        //点击Bitverse链接按钮
-        // this.settingNode.active = !this.settingNode.active;
-        //判断当前的关卡
-        //如果没有钱包地址，链接钱包
-        if(PlayerData.instance.bitverseWallet){
-            PlatformMgr.connectBitverse()
-        }
-        else{
-            let data = 
-            {
-                "id": 202,
-                "sort": 17,
-                "quality": 8,
-                "name": "NFT2",
-                "url": "texture/hero/player201",
-                "hexColor": "#5e62ff",
-                "handColor": "#362E2E",
-                "getWay": 100,
-                "priceType": 0,
-                "price": 600000,
-                "introduce": "Link wallet to get free !",
-                "initKnifeCount": 4,
-                "property": 0,
-                "propertyParam": 10,
-                "propertyTips": "speed+10%",
-                "goodsId" : 202,
-                "goodsName" : "Hero#002",
-                "token" : "87391307324056457762808332143355011852238642475825273327608161604337773052904"
-              }
-            PlatformMgr.requestNFTGet(data)
-        }
-    },
-
     onEditLanguage: function (event, data, isInit = false) {
         var index = Number(data)
         LanguageMgr.setLang(index);
@@ -1164,6 +1151,15 @@ const GSHome = cc.Class({
     showPanelDailyTask: function (callback) {
         this.panelDailyTask.active = true;
         this.panelDailyTask.getComponent('PanelDailyTask').init(this.world, callback);
+    },
+
+
+    showPanelNFT: function (callback) {
+        // this.activeGoldNode(false);
+        // this.activeDiamondNode(false);
+        this.panelNFT.active = true;
+        this.panelNFT.getComponent('PanelNFT').init(this.world, callback);
+        AdvertMgr.instance.fireBaseEvent("nft_page_show","page_id","main");
     },
 
     showGetMoneyEffect: function (getGoldParam, offset = cc.v2(0, -200), activeGoldNode) {

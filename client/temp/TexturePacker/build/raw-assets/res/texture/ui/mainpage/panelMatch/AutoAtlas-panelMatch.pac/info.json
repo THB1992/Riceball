@@ -1,0 +1,175 @@
+{
+  "mtimes": {
+    "e180748b-b6db-4f37-89fb-3773c74a9f99": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419914
+    },
+    "4f9238f1-520f-461d-b7d0-8b0b98736051": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419936
+    },
+    "21a51f7c-7d41-4864-b269-454841f013b1": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419936
+    },
+    "7c82e0ff-7c09-4fb5-a52b-7d380207d55a": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419931
+    },
+    "9dd4f3c5-d2c0-4a04-b6dd-e4ce87dfa83e": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419931
+    },
+    "c6227ec9-e045-475e-b2f3-37d200e8d209": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419926
+    },
+    "1b2313c7-3e05-4295-bc50-d2ab839a043f": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419926
+    },
+    "e90a6f20-2bd8-43d9-83d6-d2b1606c613a": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419941
+    },
+    "a0edafde-1eb3-42fe-b7eb-ca54dd3749a8": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419941
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-panelMatch",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "e180748b-b6db-4f37-89fb-3773c74a9f99",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "ui-match-02",
+            "uuid": "7c82e0ff-7c09-4fb5-a52b-7d380207d55a",
+            "textureUuid": "9dd4f3c5-d2c0-4a04-b6dd-e4ce87dfa83e",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631142_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 169,
+              "height": 24,
+              "rotatedWidth": 24,
+              "rotatedHeight": 169
+            },
+            "rawWidth": 180,
+            "rawHeight": 29,
+            "width": 175,
+            "height": 30,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/9d/9dd4f3c5-d2c0-4a04-b6dd-e4ce87dfa83e.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 30,
+            "rotatedHeight": 175
+          },
+          {
+            "name": "ui-match-01",
+            "uuid": "c6227ec9-e045-475e-b2f3-37d200e8d209",
+            "textureUuid": "1b2313c7-3e05-4295-bc50-d2ab839a043f",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631142_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 178,
+              "width": 122,
+              "height": 122,
+              "rotatedWidth": 122,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 122,
+            "width": 128,
+            "height": 128,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/1b/1b2313c7-3e05-4295-bc50-d2ab839a043f.png",
+            "x": 0,
+            "y": 175,
+            "rotatedWidth": 128,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "ui-match-03",
+            "uuid": "4f9238f1-520f-461d-b7d0-8b0b98736051",
+            "textureUuid": "21a51f7c-7d41-4864-b269-454841f013b1",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631141_image_0.png",
+            "trim": {
+              "x": 33,
+              "y": 3,
+              "width": 68,
+              "height": 68,
+              "rotatedWidth": 68,
+              "rotatedHeight": 68
+            },
+            "rawWidth": 68,
+            "rawHeight": 68,
+            "width": 74,
+            "height": 74,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/21/21a51f7c-7d41-4864-b269-454841f013b1.png",
+            "x": 30,
+            "y": 0,
+            "rotatedWidth": 74,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "ui-match-04",
+            "uuid": "e90a6f20-2bd8-43d9-83d6-d2b1606c613a",
+            "textureUuid": "a0edafde-1eb3-42fe-b7eb-ca54dd3749a8",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631142_image_3.png",
+            "trim": {
+              "x": 33,
+              "y": 77,
+              "width": 4,
+              "height": 4,
+              "rotatedWidth": 4,
+              "rotatedHeight": 4
+            },
+            "rawWidth": 4,
+            "rawHeight": 4,
+            "width": 10,
+            "height": 10,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/a0/a0edafde-1eb3-42fe-b7eb-ca54dd3749a8.png",
+            "x": 30,
+            "y": 74,
+            "rotatedWidth": 10,
+            "rotatedHeight": 10
+          }
+        ],
+        "width": 128,
+        "height": 303,
+        "name": "AutoAtlas-panelMatch-1",
+        "imagePath": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\mainpage\\panelMatch\\AutoAtlas-panelMatch.pac\\AutoAtlas-panelMatch-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\mainpage\\panelMatch\\AutoAtlas-panelMatch.pac\\compressed\\AutoAtlas-panelMatch-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

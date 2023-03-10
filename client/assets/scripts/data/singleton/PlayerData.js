@@ -56,6 +56,14 @@ var PlayerData = cc.Class({
         playCount: 0,
         //游戏总获胜场次
         winCount : 0,
+        //NFT界面游戏入口
+        nftToPlayCount : 0,
+        nftLock:0,
+        nftLock_req:0,
+
+        //1.0.3A 只在第一次启动的时候随机
+        ABTestCode: "",
+
         //日统计
         dayKillCount: 0,
         dayTotalPickKnifeCount: 0,
@@ -203,13 +211,6 @@ var PlayerData = cc.Class({
         this.refuseBuyPool = {};
         this.refuseAdverPool = {};
         PlatformMgr.setPlayerData(this);
-
-
-        //-----NFT测试------------
-        PlatformMgr.qureyBalance()
-        PlatformMgr.checkUserNFT()
-        //------------------------
-
     },
 
     initUserData: function (callback) {
@@ -329,7 +330,12 @@ var PlayerData = cc.Class({
 
             self.playCount = data.playCount ? data.playCount : 0;
             self.winCount = data.winCount ? data.winCount : 0;
+            self.nftToPlayCount = data.nftToPlayCount ? data.nftToPlayCount : 0;
+            self.nftLock = data.nftLock ? data.nftLock : 0;
+            self.nftLock_req = data.nftLock_req ? data.nftLock_req : 0;
 
+            self.ABTestCode = data.ABTestCode ? data.ABTestCode : "";
+            
             self.dayPlayCount = data.dayPlayCount ? data.dayPlayCount : 0;
             self.dayGetPrizeCount = data.dayGetPrizeCount ? data.dayGetPrizeCount : 0;
             self.dayWin = data.dayWin ? data.dayWin : 0;
@@ -406,6 +412,9 @@ var PlayerData = cc.Class({
             self.evaulateCount = data.evaulateCount ? data.evaulateCount : 0;
             self.vipWithoutInterstitial = data.vipWithoutInterstitial ? data.vipWithoutInterstitial : 0;
             self.lastFreeDiamondTime = data.lastFreeDiamondTime ? data.lastFreeDiamondTime : 0;
+
+
+            
 
         } else {
             if (GameData.instance.isShowLog()) {
@@ -510,6 +519,10 @@ var PlayerData = cc.Class({
                 luckyRewardCount: this.luckyRewardCount,
                 playCount: this.playCount,
                 winCount: this.winCount,
+                nftToPlayCount: this.nftToPlayCount,
+                nftLock: this.nftLock,
+                nftLock_req: this.nftLock_req,
+                ABTestCode: this.ABTestCode,
                 dayPlayCount: this.dayPlayCount,
                 dayGetPrizeCount: this.dayGetPrizeCount,
                 dayWin: this.dayWin,
@@ -674,6 +687,10 @@ var PlayerData = cc.Class({
             //游戏场次
             playCount: 0,
             winCount : 0,
+            nftToPlayCount:0,
+            nftLock : 0,
+            nftLock_req : 0,
+            ABTestCode:"",
             //每日任务参数
             dayKillCount: 0,
             dayTotalPickKnifeCount: 0,
@@ -708,6 +725,7 @@ var PlayerData = cc.Class({
             continuityLoseCount: 0,
             totalAdverCount: 0,
             hawkeyeFunnelIDs: [],
+            bitverseWallet:"",
         };
         this.setData(defaultData);
         this.saveUserData('清号');

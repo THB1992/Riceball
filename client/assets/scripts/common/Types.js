@@ -472,9 +472,9 @@ const ItemGetType = cc.Enum({
 
 const NFTUnLockType = cc.Enum({
     /** 游玩次数 */
-    PLAY_COUNT: 20,
+    PLAY_COUNT: 5,
     /** 胜利次数 */
-    WIN_COUNT: 30
+    WIN_COUNT: 3
 });
 
 module.exports = {

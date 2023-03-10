@@ -86,6 +86,7 @@ const Launcher = cc.Class({
             AdvertMgr.init();
             PayMgr.init();
             GameData.instance.logUseTime('AdvertMgr init');
+
             // cc.director.preloadScene("Battle");
         });
 
@@ -125,6 +126,16 @@ const Launcher = cc.Class({
                 PlatformMgr.notifyFunnelEvent(CustomFunnelEvent.Login_Suc);
                 GameData.instance.logUseTime('login suc');
                 PlayerData.instance.initUserData(() => {
+
+                    //-----NFT测试------------
+                    PlatformMgr.qureyBalance()
+                    PlatformMgr.checkUserNFT(PlayerData.instance.bitverseWallet, (result) => {
+                        if (result) {
+                            PlayerData.instance.nftLock = 1
+                        }
+                    })
+                    //------------------------
+
                     PlatformMgr.notifyFunnelEvent(CustomFunnelEvent.Load_UserData);
                     PlatformMgr.hawkeye_report_login();
                     PlatformMgr.hawkeye_report_share_in();
@@ -223,14 +234,18 @@ const Launcher = cc.Class({
                             PlayerData.instance.dayCanReportTotalAdsRevenue ? "1" : "0",
                             PlayerData.instance.dayTotalAdsRevenue + "")
 
+
+                        if (PlayerData.instance.ABTestCode == "") {
+                            PlayerData.instance.ABTestCode = Math.random() > 0.5 ? "1.0.37_A" : "1.0.37_B"
+                        }
+
                         //测试，随机ab——test
                         jsb.reflection.callStaticMethod("org/cocos2dx/javascript/AdManage",
                             "FAUserProperty",
                             "(Ljava/lang/String;Ljava/lang/String;)V",
                             "ab_test",
-                            Math.random() > 0.5 ? "1.0.37_A" : "1.0.37_B")
-                    }
-                    else if (PlatformMgr.platformType == PlatformType.IOS) {
+                            PlayerData.instance.ABTestCode)
+                    } else if (PlatformMgr.platformType == PlatformType.IOS) {
                         let frst = PlayerData.instance.isFirstDay() ? "1" : "0"
                         jsb.reflection.callStaticMethod("AdManage",
                             "FAUserProperty:sec:",
@@ -242,6 +257,15 @@ const Launcher = cc.Class({
                             "FATotalRevenueSwitch:sec:",
                             PlayerData.instance.dayCanReportTotalAdsRevenue ? "1" : "0",
                             PlayerData.instance.dayTotalAdsRevenue + "")
+
+                        if (PlayerData.instance.ABTestCode == "") {
+                            PlayerData.instance.ABTestCode = Math.random() > 0.5 ? "1.0.37_A" : "1.0.37_B"
+                        }
+
+                        jsb.reflection.callStaticMethod("AdManage",
+                            "FAUserProperty:sec:",
+                            "ab_test",
+                            PlayerData.instance.ABTestCode)
                     }
 
                     if (AdvertMgr.instance.getOpenAdRules()) {
@@ -250,8 +274,7 @@ const Launcher = cc.Class({
                         // PlayerData.instance.isShowOpenAdCold = true
                         AdvertMgr.instance.showOpenApp()
                         //////////////////////////////
-                    }
-                    else {
+                    } else {
                         PlatformMgr.notifyFunnelEvent(CustomFunnelEvent.Switch_BattleFire);
                         GameData.instance.logUseTime('loadScene Battle');
                         cc.director.loadScene("Battle");
@@ -266,14 +289,12 @@ const Launcher = cc.Class({
                     // GameData.instance.logUseTime('loadScene Battle');
                     // cc.director.loadScene("Battle");
                     // this.needUpdate = false;
-                }
-                else {
+                } else {
                     if (!this.isShowOpenAd) {
                         if (AdvertMgr.instance.isShowingOpenAd) {
                             //没收到广告结果前，继续调用播放
                             AdvertMgr.instance.showOpenApp()
-                        }
-                        else {
+                        } else {
                             console.log(" isShowOpenAd ", AdvertMgr.instance.isShowingOpenAd, PlayerData.instance.isShowOpenAdCold)
                             //开屏广告之后加载场景
                             PlatformMgr.notifyFunnelEvent(CustomFunnelEvent.Switch_BattleFire);

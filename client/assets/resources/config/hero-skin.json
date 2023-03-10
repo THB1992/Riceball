@@ -276,25 +276,5 @@
     "property": 0,
     "propertyParam": 15,
     "propertyTips": "speed+15%"
-  },
-  {
-    "id": 202,
-    "sort": 17,
-    "quality": 8,
-    "name": "NFT2",
-    "url": "texture/hero/player201",
-    "hexColor": "#5e62ff",
-    "handColor": "#362E2E",
-    "getWay": 100,
-    "priceType": 0,
-    "price": 600000,
-    "introduce": "Link wallet to get free !",
-    "initKnifeCount": 4,
-    "property": 0,
-    "propertyParam": 10,
-    "propertyTips": "speed+10%",
-    "goodsId" : 202,
-    "goodsName" : "Hero#002",
-    "token" : "87391307324056457762808332143355011852238642475825273327608161604337773052904"
   }
 ]

@@ -49,6 +49,10 @@ const UIMgr = cc.Class({
         this._GSGame.addPlayerRankItem(entityPlayer);
     },
 
+     openPanelNFT: function (callback) {
+        this._GSGame.openPanelNFT(callback);
+    },
+
     openGameOverPanel: function (rank) {
         this._GSGame.openGameOverPanel(rank);
     },
@@ -213,6 +217,10 @@ const UIMgr = cc.Class({
 
     showPanelDailyTask: function (callback) {
         this._GSHome.showPanelDailyTask(callback);
+    },
+
+    showPanelNFT: function (callback) {
+        this._GSHome.showPanelNFT(callback);
     },
 
     activeGoldNode: function (active) {

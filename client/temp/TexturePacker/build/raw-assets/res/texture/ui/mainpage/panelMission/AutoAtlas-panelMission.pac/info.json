@@ -1,0 +1,1434 @@
+{
+  "mtimes": {
+    "66974838-d404-4cef-96b0-0ce300cb4cf0": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419936
+    },
+    "0be08288-4efc-4841-ab9d-6740ec20e3d6": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419946
+    },
+    "fcfb7ed0-c586-435f-af3c-3bbb4265053c": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419946
+    },
+    "0c3415fd-c5ef-4a2d-a973-cf03b0fe70d3": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420020
+    },
+    "01f9c1b8-f54c-4d22-8067-6c11b25b1a6c": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420020
+    },
+    "0d6488e9-85ba-4ab8-86e5-4796b4d92b0c": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420246
+    },
+    "d7149835-8b9c-48bb-8630-3bac00861bb2": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420246
+    },
+    "11e9e774-837f-43a4-b6b3-0464af4abfe6": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419988
+    },
+    "f1d058ae-cf80-4ab9-ab27-93c68b5b4709": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419988
+    },
+    "152c326c-8b6c-4bbe-bc51-12a63ae550a8": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420163
+    },
+    "6a633316-59cb-4c5c-87bb-33e3b3c0c124": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420163
+    },
+    "18109b0f-8541-4bd5-af3a-1e88eb14e4e3": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420174
+    },
+    "2fa02cfe-a129-4ab9-b96c-1d234e5116dc": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420174
+    },
+    "2498a0e0-a98f-4c9c-85f7-fc6fd24ac867": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420114
+    },
+    "08b530dd-2482-4c12-85c9-747644651274": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420114
+    },
+    "2909d6b8-a144-4ce6-9fce-4d5190345423": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419969
+    },
+    "95ec0cbf-06be-41da-be47-8c1b97151ac3": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419969
+    },
+    "297303b5-7471-4b05-a874-b6c9ae79f2ec": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420256
+    },
+    "2ef5e254-7808-472a-bb0b-4dec69eb5d3d": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420256
+    },
+    "298498fb-a512-4457-90e6-e150b9de12f4": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419993
+    },
+    "6002917c-eb7e-4c45-aa4f-dd5bb2a6da8e": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419993
+    },
+    "2ec9b550-3e2e-4c95-8e90-72cd51135784": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420111
+    },
+    "37b25636-6a50-4e4d-816d-1ce6196d2bc3": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420111
+    },
+    "31cefcd5-3404-439c-8d04-8515f167ec46": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420068
+    },
+    "ee65d6d1-7cb5-4aa6-90ad-64a3d993b77d": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420068
+    },
+    "36e307f9-c5b0-4734-937d-d339b44e8176": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420197
+    },
+    "359668fb-21ff-4515-abaa-4434bd454f45": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420197
+    },
+    "39d0fb67-554d-496b-ae9a-37a41659090d": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420186
+    },
+    "eea6ebcb-4edd-4414-99e6-fb4960d782b0": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420186
+    },
+    "4e60edfa-60ea-4322-99e6-8109010f1576": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420198
+    },
+    "d3a42bfd-e449-4a13-9e9f-2f1df556b119": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420198
+    },
+    "52583af9-428a-40c0-aed9-9d127eaace24": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420036
+    },
+    "a9b1d249-fb25-4ebe-b312-4639722bce9a": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420036
+    },
+    "5e72b491-e20e-4d79-baaa-0fefbd1731b1": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420174
+    },
+    "11b6a853-41f9-48b2-8d96-dceaa4c922e3": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420174
+    },
+    "5f77022a-1ed2-436e-a9c9-c9bf35731fd9": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419998
+    },
+    "11aeca3b-04ec-45be-abc6-fd4d60e0d7fa": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419998
+    },
+    "6769f625-52be-43e3-a749-6be0a33fb794": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420079
+    },
+    "c44a8c10-db2b-43f7-8e23-fcdccdcb15ac": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420079
+    },
+    "76bc3397-e5ed-4726-b6e9-e3316d90bab3": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419957
+    },
+    "b2102823-6da4-48d5-8f1e-dba8b79b4dfe": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419957
+    },
+    "797f066d-0ded-46e6-abbb-88fd7c6bbe7e": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420233
+    },
+    "6b526a6a-3c02-4b2c-a920-4af07c428985": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420233
+    },
+    "828af636-5fd8-4583-9d45-85e597bbde81": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419951
+    },
+    "2740208a-746d-4ddb-9fd9-4041a3c8027c": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419951
+    },
+    "8a985c4a-7ed5-49c9-855b-55aa3f7adc6e": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420054
+    },
+    "fff851f6-8994-4e6b-98e6-391b5d582c87": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420054
+    },
+    "91616c7e-b685-42c7-b8a6-7d6d7d8df106": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420093
+    },
+    "47dc6aba-714e-41f2-b34e-732c4fd50932": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420093
+    },
+    "9858b00b-f950-4088-91fb-37d69592e000": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420162
+    },
+    "1b96a3f7-8694-47c7-80d9-909c01f82822": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420162
+    },
+    "a36e7d50-1843-4482-a4bf-e25e1ccf447c": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420210
+    },
+    "4a551bb5-f17e-4db4-9eef-17ffe9623b26": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420210
+    },
+    "a4a5acb0-f3dd-4514-aa57-88d7c171ff29": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420256
+    },
+    "d104edf3-91d0-44a2-a5af-9c8020fbe9e3": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420256
+    },
+    "a5b93754-2c0b-42b1-80d7-ae99dbad38b7": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420245
+    },
+    "148f222f-e3bd-4227-8ab5-1ee7074e52e7": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420245
+    },
+    "a710ed28-e630-4e5e-ac60-922f53286310": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420106
+    },
+    "ed861d4b-920f-49f8-9ef9-01c6713b6bcc": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420106
+    },
+    "af9b93c9-a368-4879-894d-4a6ba639bf42": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420080
+    },
+    "8bdde67c-bb44-4b71-ab90-61810784eb7d": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420080
+    },
+    "b64a694c-ee86-4e9d-992e-f8ebdf80c348": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419963
+    },
+    "819b2026-8953-4af8-9532-9a6277dbd127": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419963
+    },
+    "bee9da4e-968c-4ab7-95d4-67f50847ee4a": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420024
+    },
+    "b47c1261-0abd-437a-a114-cb6aa208ddea": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420024
+    },
+    "d33abed3-d36f-42c9-8ed1-6cae47c76d77": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420047
+    },
+    "fef55674-e634-43f3-bd96-7bcd8ba7c843": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420047
+    },
+    "d7a883f7-1559-4f74-853d-97416651790d": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420069
+    },
+    "3cb99940-7bb5-4b59-b954-7f80915f4003": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420069
+    },
+    "de5bd690-7716-49e0-811b-b5a87737b32c": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420220
+    },
+    "4d3c9c50-e2b2-4486-a400-8fb8484f6830": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420220
+    },
+    "dfbd3f59-6a66-485a-bc92-a2e221b02df0": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420130
+    },
+    "bb597af8-338f-4b9e-85f0-450199c7d82f": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420130
+    },
+    "e0434730-a7ed-45ed-8e3d-023b807d8f12": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420186
+    },
+    "c476b7c9-15be-4d58-9e2a-10923264c327": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420186
+    },
+    "e7852323-86d4-4d93-988e-a83e8a1d558f": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420124
+    },
+    "5a5ffeed-a078-408a-82df-0e68f2edefb8": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420124
+    },
+    "e86bb3d4-f19c-4cf2-9c3e-3b9381d0f88c": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420092
+    },
+    "26e2f263-634b-499b-8744-d043a9429a83": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420092
+    },
+    "ea87cc53-8b18-49e0-b4b4-444b6588b3c8": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419978
+    },
+    "564cd715-9d38-4931-bd6c-6a21b589acbc": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419978
+    },
+    "eaee8da0-933c-44a1-9c08-9004bb4e4566": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419974
+    },
+    "505f8da0-53b9-45b6-b423-d73d4b594084": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122419974
+    },
+    "ece4d34f-cdfe-40f4-ae08-502825d714a9": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420232
+    },
+    "ebb07720-6604-46da-9caa-7420329a25f4": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420232
+    },
+    "f124ecf3-675d-4854-8d82-65095a67a3b7": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420121
+    },
+    "979f3d7b-e841-4fef-84f5-d853b057726d": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420121
+    },
+    "f7822405-6282-4553-82f7-0a73d1e21e03": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420105
+    },
+    "29104b48-5b20-4c3f-a3ab-9cc850fc87a4": {
+      "assetMtime": 1673253504000,
+      "metaMtime": 1674122420105
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-panelMission",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "66974838-d404-4cef-96b0-0ce300cb4cf0",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "ui-mission-21",
+            "uuid": "797f066d-0ded-46e6-abbb-88fd7c6bbe7e",
+            "textureUuid": "6b526a6a-3c02-4b2c-a920-4af07c428985",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_20.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 361,
+              "height": 29,
+              "rotatedWidth": 361,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 361,
+            "rawHeight": 29,
+            "width": 367,
+            "height": 35,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/6b/6b526a6a-3c02-4b2c-a920-4af07c428985.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 367,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "effect-mission-02",
+            "uuid": "b64a694c-ee86-4e9d-992e-f8ebdf80c348",
+            "textureUuid": "819b2026-8953-4af8-9532-9a6277dbd127",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_30.png",
+            "trim": {
+              "x": 370,
+              "y": 3,
+              "width": 138,
+              "height": 164,
+              "rotatedWidth": 164,
+              "rotatedHeight": 138
+            },
+            "rawWidth": 138,
+            "rawHeight": 164,
+            "width": 144,
+            "height": 170,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/81/819b2026-8953-4af8-9532-9a6277dbd127.png",
+            "x": 367,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 170,
+            "rotatedHeight": 144
+          },
+          {
+            "name": "ui-mission-03",
+            "uuid": "f7822405-6282-4553-82f7-0a73d1e21e03",
+            "textureUuid": "29104b48-5b20-4c3f-a3ab-9cc850fc87a4",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_43.png",
+            "trim": {
+              "x": 3,
+              "y": 38,
+              "width": 340,
+              "height": 119,
+              "rotatedWidth": 340,
+              "rotatedHeight": 119
+            },
+            "rawWidth": 340,
+            "rawHeight": 119,
+            "width": 346,
+            "height": 125,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/29/29104b48-5b20-4c3f-a3ab-9cc850fc87a4.png",
+            "x": 0,
+            "y": 35,
+            "rotatedWidth": 346,
+            "rotatedHeight": 125
+          },
+          {
+            "name": "ui-mission-04",
+            "uuid": "2498a0e0-a98f-4c9c-85f7-fc6fd24ac867",
+            "textureUuid": "08b530dd-2482-4c12-85c9-747644651274",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_6.png",
+            "trim": {
+              "x": 349,
+              "y": 147,
+              "width": 191,
+              "height": 48,
+              "rotatedWidth": 191,
+              "rotatedHeight": 48
+            },
+            "rawWidth": 191,
+            "rawHeight": 50,
+            "width": 197,
+            "height": 54,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/08/08b530dd-2482-4c12-85c9-747644651274.png",
+            "x": 346,
+            "y": 144,
+            "rotatedWidth": 197,
+            "rotatedHeight": 54
+          },
+          {
+            "name": "ui-mission-16",
+            "uuid": "4e60edfa-60ea-4322-99e6-8109010f1576",
+            "textureUuid": "d3a42bfd-e449-4a13-9e9f-2f1df556b119",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_14.png",
+            "trim": {
+              "x": 3,
+              "y": 163,
+              "width": 307,
+              "height": 58,
+              "rotatedWidth": 307,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 307,
+            "rawHeight": 58,
+            "width": 313,
+            "height": 64,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/d3/d3a42bfd-e449-4a13-9e9f-2f1df556b119.png",
+            "x": 0,
+            "y": 160,
+            "rotatedWidth": 313,
+            "rotatedHeight": 64
+          },
+          {
+            "name": "ui-mission-22",
+            "uuid": "ece4d34f-cdfe-40f4-ae08-502825d714a9",
+            "textureUuid": "ebb07720-6604-46da-9caa-7420329a25f4",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_41.png",
+            "trim": {
+              "x": 316,
+              "y": 163,
+              "width": 34,
+              "height": 26,
+              "rotatedWidth": 26,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 34,
+            "rawHeight": 26,
+            "width": 40,
+            "height": 32,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/eb/ebb07720-6604-46da-9caa-7420329a25f4.png",
+            "x": 313,
+            "y": 160,
+            "rotated": true,
+            "rotatedWidth": 32,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "ui-mission-17",
+            "uuid": "a36e7d50-1843-4482-a4bf-e25e1ccf447c",
+            "textureUuid": "4a551bb5-f17e-4db4-9eef-17ffe9623b26",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_25.png",
+            "trim": {
+              "x": 348,
+              "y": 201,
+              "width": 189,
+              "height": 71,
+              "rotatedWidth": 189,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 189,
+            "rawHeight": 71,
+            "width": 195,
+            "height": 77,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/4a/4a551bb5-f17e-4db4-9eef-17ffe9623b26.png",
+            "x": 345,
+            "y": 198,
+            "rotatedWidth": 195,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "ui-mission-14",
+            "uuid": "e0434730-a7ed-45ed-8e3d-023b807d8f12",
+            "textureUuid": "c476b7c9-15be-4d58-9e2a-10923264c327",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_36.png",
+            "trim": {
+              "x": 316,
+              "y": 203,
+              "width": 103,
+              "height": 18,
+              "rotatedWidth": 18,
+              "rotatedHeight": 103
+            },
+            "rawWidth": 103,
+            "rawHeight": 18,
+            "width": 109,
+            "height": 24,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/c4/c476b7c9-15be-4d58-9e2a-10923264c327.png",
+            "x": 313,
+            "y": 200,
+            "rotated": true,
+            "rotatedWidth": 24,
+            "rotatedHeight": 109
+          },
+          {
+            "name": "ui-mission-02",
+            "uuid": "a710ed28-e630-4e5e-ac60-922f53286310",
+            "textureUuid": "ed861d4b-920f-49f8-9ef9-01c6713b6bcc",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_28.png",
+            "trim": {
+              "x": 3,
+              "y": 227,
+              "width": 294,
+              "height": 118,
+              "rotatedWidth": 294,
+              "rotatedHeight": 118
+            },
+            "rawWidth": 294,
+            "rawHeight": 118,
+            "width": 300,
+            "height": 124,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/ed/ed861d4b-920f-49f8-9ef9-01c6713b6bcc.png",
+            "x": 0,
+            "y": 224,
+            "rotatedWidth": 300,
+            "rotatedHeight": 124
+          },
+          {
+            "name": "ui-exchange-14",
+            "uuid": "8a985c4a-7ed5-49c9-855b-55aa3f7adc6e",
+            "textureUuid": "fff851f6-8994-4e6b-98e6-391b5d582c87",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_22.png",
+            "trim": {
+              "x": 340,
+              "y": 278,
+              "width": 187,
+              "height": 122,
+              "rotatedWidth": 187,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 187,
+            "rawHeight": 122,
+            "width": 193,
+            "height": 128,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/ff/fff851f6-8994-4e6b-98e6-391b5d582c87.png",
+            "x": 337,
+            "y": 275,
+            "rotatedWidth": 193,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "ui-mission-13",
+            "uuid": "39d0fb67-554d-496b-ae9a-37a41659090d",
+            "textureUuid": "eea6ebcb-4edd-4414-99e6-fb4960d782b0",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_13.png",
+            "trim": {
+              "x": 303,
+              "y": 312,
+              "width": 42,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 31,
+            "width": 48,
+            "height": 37,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/ee/eea6ebcb-4edd-4414-99e6-fb4960d782b0.png",
+            "x": 300,
+            "y": 309,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "ui-exchange-09",
+            "uuid": "bee9da4e-968c-4ab7-95d4-67f50847ee4a",
+            "textureUuid": "b47c1261-0abd-437a-a114-cb6aa208ddea",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_31.png",
+            "trim": {
+              "x": 3,
+              "y": 351,
+              "width": 283,
+              "height": 66,
+              "rotatedWidth": 283,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 283,
+            "rawHeight": 66,
+            "width": 289,
+            "height": 72,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/b4/b47c1261-0abd-437a-a114-cb6aa208ddea.png",
+            "x": 0,
+            "y": 348,
+            "rotatedWidth": 289,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ui-exchange-18",
+            "uuid": "6769f625-52be-43e3-a749-6be0a33fb794",
+            "textureUuid": "c44a8c10-db2b-43f7-8e23-fcdccdcb15ac",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_18.png",
+            "trim": {
+              "x": 292,
+              "y": 360,
+              "width": 58,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 58,
+            "rawHeight": 42,
+            "width": 64,
+            "height": 48,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/c4/c44a8c10-db2b-43f7-8e23-fcdccdcb15ac.png",
+            "x": 289,
+            "y": 357,
+            "rotated": true,
+            "rotatedWidth": 48,
+            "rotatedHeight": 64
+          },
+          {
+            "name": "ui-mission-01",
+            "uuid": "e86bb3d4-f19c-4cf2-9c3e-3b9381d0f88c",
+            "textureUuid": "26e2f263-634b-499b-8744-d043a9429a83",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_38.png",
+            "trim": {
+              "x": 3,
+              "y": 423,
+              "width": 254,
+              "height": 118,
+              "rotatedWidth": 254,
+              "rotatedHeight": 118
+            },
+            "rawWidth": 254,
+            "rawHeight": 118,
+            "width": 260,
+            "height": 124,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/26/26e2f263-634b-499b-8744-d043a9429a83.png",
+            "x": 0,
+            "y": 420,
+            "rotatedWidth": 260,
+            "rotatedHeight": 124
+          },
+          {
+            "name": "ui-mission-06",
+            "uuid": "f124ecf3-675d-4854-8d82-65095a67a3b7",
+            "textureUuid": "979f3d7b-e841-4fef-84f5-d853b057726d",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_42.png",
+            "trim": {
+              "x": 263,
+              "y": 424,
+              "width": 241,
+              "height": 124,
+              "rotatedWidth": 241,
+              "rotatedHeight": 124
+            },
+            "rawWidth": 241,
+            "rawHeight": 124,
+            "width": 247,
+            "height": 130,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/97/979f3d7b-e841-4fef-84f5-d853b057726d.png",
+            "x": 260,
+            "y": 421,
+            "rotatedWidth": 247,
+            "rotatedHeight": 130
+          },
+          {
+            "name": "ui-mission-08",
+            "uuid": "dfbd3f59-6a66-485a-bc92-a2e221b02df0",
+            "textureUuid": "bb597af8-338f-4b9e-85f0-450199c7d82f",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_35.png",
+            "trim": {
+              "x": 510,
+              "y": 406,
+              "width": 110,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 110
+            },
+            "rawWidth": 110,
+            "rawHeight": 32,
+            "width": 116,
+            "height": 38,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/bb/bb597af8-338f-4b9e-85f0-450199c7d82f.png",
+            "x": 507,
+            "y": 403,
+            "rotated": true,
+            "rotatedWidth": 38,
+            "rotatedHeight": 116
+          },
+          {
+            "name": "btn-reborn-ad",
+            "uuid": "0be08288-4efc-4841-ab9d-6740ec20e3d6",
+            "textureUuid": "fcfb7ed0-c586-435f-af3c-3bbb4265053c",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631250_image_0.png",
+            "trim": {
+              "x": 510,
+              "y": 522,
+              "width": 46,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 46,
+            "rawHeight": 30,
+            "width": 52,
+            "height": 36,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/fc/fcfb7ed0-c586-435f-af3c-3bbb4265053c.png",
+            "x": 507,
+            "y": 519,
+            "rotated": true,
+            "rotatedWidth": 36,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "effect-mission-01",
+            "uuid": "76bc3397-e5ed-4726-b6e9-e3316d90bab3",
+            "textureUuid": "b2102823-6da4-48d5-8f1e-dba8b79b4dfe",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_19.png",
+            "trim": {
+              "x": 3,
+              "y": 547,
+              "width": 125,
+              "height": 164,
+              "rotatedWidth": 164,
+              "rotatedHeight": 125
+            },
+            "rawWidth": 125,
+            "rawHeight": 164,
+            "width": 131,
+            "height": 170,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/b2/b2102823-6da4-48d5-8f1e-dba8b79b4dfe.png",
+            "x": 0,
+            "y": 544,
+            "rotated": true,
+            "rotatedWidth": 170,
+            "rotatedHeight": 131
+          },
+          {
+            "name": "ui-mission-15",
+            "uuid": "36e307f9-c5b0-4734-937d-d339b44e8176",
+            "textureUuid": "359668fb-21ff-4515-abaa-4434bd454f45",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_12.png",
+            "trim": {
+              "x": 173,
+              "y": 547,
+              "width": 107,
+              "height": 77,
+              "rotatedWidth": 77,
+              "rotatedHeight": 107
+            },
+            "rawWidth": 107,
+            "rawHeight": 77,
+            "width": 113,
+            "height": 83,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/35/359668fb-21ff-4515-abaa-4434bd454f45.png",
+            "x": 170,
+            "y": 544,
+            "rotated": true,
+            "rotatedWidth": 83,
+            "rotatedHeight": 113
+          },
+          {
+            "name": "ui-exchange-20",
+            "uuid": "91616c7e-b685-42c7-b8a6-7d6d7d8df106",
+            "textureUuid": "47dc6aba-714e-41f2-b34e-732c4fd50932",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_23.png",
+            "trim": {
+              "x": 256,
+              "y": 554,
+              "width": 159,
+              "height": 122,
+              "rotatedWidth": 159,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 159,
+            "rawHeight": 122,
+            "width": 165,
+            "height": 128,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/47/47dc6aba-714e-41f2-b34e-732c4fd50932.png",
+            "x": 253,
+            "y": 551,
+            "rotatedWidth": 165,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "ui-exchange-13",
+            "uuid": "d33abed3-d36f-42c9-8ed1-6cae47c76d77",
+            "textureUuid": "fef55674-e634-43f3-bd96-7bcd8ba7c843",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_32.png",
+            "trim": {
+              "x": 173,
+              "y": 660,
+              "width": 151,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 151
+            },
+            "rawWidth": 151,
+            "rawHeight": 76,
+            "width": 157,
+            "height": 82,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/fe/fef55674-e634-43f3-bd96-7bcd8ba7c843.png",
+            "x": 170,
+            "y": 657,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 157
+          },
+          {
+            "name": "ui-exchange-16",
+            "uuid": "31cefcd5-3404-439c-8d04-8515f167ec46",
+            "textureUuid": "ee65d6d1-7cb5-4aa6-90ad-64a3d993b77d",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_11.png",
+            "trim": {
+              "x": 421,
+              "y": 574,
+              "width": 127,
+              "height": 120,
+              "rotatedWidth": 120,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 127,
+            "rawHeight": 120,
+            "width": 133,
+            "height": 126,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/ee/ee65d6d1-7cb5-4aa6-90ad-64a3d993b77d.png",
+            "x": 418,
+            "y": 571,
+            "rotated": true,
+            "rotatedWidth": 126,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "effect-mission-03",
+            "uuid": "2909d6b8-a144-4ce6-9fce-4d5190345423",
+            "textureUuid": "95ec0cbf-06be-41da-be47-8c1b97151ac3",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_7.png",
+            "trim": {
+              "x": 255,
+              "y": 682,
+              "width": 122,
+              "height": 142,
+              "rotatedWidth": 142,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 142,
+            "width": 128,
+            "height": 148,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/95/95ec0cbf-06be-41da-be47-8c1b97151ac3.png",
+            "x": 252,
+            "y": 679,
+            "rotated": true,
+            "rotatedWidth": 148,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "ui-exchange-02",
+            "uuid": "11e9e774-837f-43a4-b6b3-0464af4abfe6",
+            "textureUuid": "f1d058ae-cf80-4ab9-ab27-93c68b5b4709",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631250_image_3.png",
+            "trim": {
+              "x": 403,
+              "y": 707,
+              "width": 131,
+              "height": 125,
+              "rotatedWidth": 131,
+              "rotatedHeight": 125
+            },
+            "rawWidth": 131,
+            "rawHeight": 125,
+            "width": 137,
+            "height": 131,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/f1/f1d058ae-cf80-4ab9-ab27-93c68b5b4709.png",
+            "x": 400,
+            "y": 704,
+            "rotatedWidth": 137,
+            "rotatedHeight": 131
+          },
+          {
+            "name": "ui-exchange-19",
+            "uuid": "af9b93c9-a368-4879-894d-4a6ba639bf42",
+            "textureUuid": "8bdde67c-bb44-4b71-ab90-61810784eb7d",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_29.png",
+            "trim": {
+              "x": 255,
+              "y": 810,
+              "width": 141,
+              "height": 122,
+              "rotatedWidth": 141,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 141,
+            "rawHeight": 122,
+            "width": 147,
+            "height": 128,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/8b/8bdde67c-bb44-4b71-ab90-61810784eb7d.png",
+            "x": 252,
+            "y": 807,
+            "rotatedWidth": 147,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "ui-exchange-11",
+            "uuid": "52583af9-428a-40c0-aed9-9d127eaace24",
+            "textureUuid": "a9b1d249-fb25-4ebe-b312-4639722bce9a",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_15.png",
+            "trim": {
+              "x": 402,
+              "y": 838,
+              "width": 123,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 123
+            },
+            "rawWidth": 123,
+            "rawHeight": 128,
+            "width": 129,
+            "height": 134,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/a9/a9b1d249-fb25-4ebe-b312-4639722bce9a.png",
+            "x": 399,
+            "y": 835,
+            "rotated": true,
+            "rotatedWidth": 134,
+            "rotatedHeight": 129
+          },
+          {
+            "name": "ui-mission-09",
+            "uuid": "152c326c-8b6c-4bbe-bc51-12a63ae550a8",
+            "textureUuid": "6a633316-59cb-4c5c-87bb-33e3b3c0c124",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631250_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 967,
+              "width": 117,
+              "height": 52,
+              "rotatedWidth": 117,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 117,
+            "rawHeight": 52,
+            "width": 123,
+            "height": 58,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/6a/6a633316-59cb-4c5c-87bb-33e3b3c0c124.png",
+            "x": 0,
+            "y": 964,
+            "rotatedWidth": 123,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "ui-exchange-04",
+            "uuid": "5f77022a-1ed2-436e-a9c9-c9bf35731fd9",
+            "textureUuid": "11aeca3b-04ec-45be-abc6-fd4d60e0d7fa",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_17.png",
+            "trim": {
+              "x": 126,
+              "y": 678,
+              "width": 111,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 40,
+            "width": 117,
+            "height": 46,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/11/11aeca3b-04ec-45be-abc6-fd4d60e0d7fa.png",
+            "x": 123,
+            "y": 675,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "ui-exchange-03",
+            "uuid": "298498fb-a512-4457-90e6-e150b9de12f4",
+            "textureUuid": "6002917c-eb7e-4c45-aa4f-dd5bb2a6da8e",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_9.png",
+            "trim": {
+              "x": 3,
+              "y": 678,
+              "width": 117,
+              "height": 52,
+              "rotatedWidth": 117,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 117,
+            "rawHeight": 52,
+            "width": 123,
+            "height": 58,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/60/6002917c-eb7e-4c45-aa4f-dd5bb2a6da8e.png",
+            "x": 0,
+            "y": 675,
+            "rotatedWidth": 123,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "ui-mission-10",
+            "uuid": "9858b00b-f950-4088-91fb-37d69592e000",
+            "textureUuid": "1b96a3f7-8694-47c7-80d9-909c01f82822",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_24.png",
+            "trim": {
+              "x": 3,
+              "y": 736,
+              "width": 117,
+              "height": 52,
+              "rotatedWidth": 117,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 117,
+            "rawHeight": 52,
+            "width": 123,
+            "height": 58,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/1b/1b96a3f7-8694-47c7-80d9-909c01f82822.png",
+            "x": 0,
+            "y": 733,
+            "rotatedWidth": 123,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "ui-mission-26",
+            "uuid": "a4a5acb0-f3dd-4514-aa57-88d7c171ff29",
+            "textureUuid": "d104edf3-91d0-44a2-a5af-9c8020fbe9e3",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_26.png",
+            "trim": {
+              "x": 3,
+              "y": 794,
+              "width": 117,
+              "height": 52,
+              "rotatedWidth": 117,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 117,
+            "rawHeight": 52,
+            "width": 123,
+            "height": 58,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/d1/d104edf3-91d0-44a2-a5af-9c8020fbe9e3.png",
+            "x": 0,
+            "y": 791,
+            "rotatedWidth": 123,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "ui-exchange-08",
+            "uuid": "0c3415fd-c5ef-4a2d-a973-cf03b0fe70d3",
+            "textureUuid": "01f9c1b8-f54c-4d22-8067-6c11b25b1a6c",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631250_image_1.png",
+            "trim": {
+              "x": 126,
+              "y": 795,
+              "width": 56,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 56,
+            "rawHeight": 40,
+            "width": 62,
+            "height": 46,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/01/01f9c1b8-f54c-4d22-8067-6c11b25b1a6c.png",
+            "x": 123,
+            "y": 792,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "ui-mission-11",
+            "uuid": "5e72b491-e20e-4d79-baaa-0fefbd1731b1",
+            "textureUuid": "11b6a853-41f9-48b2-8d96-dceaa4c922e3",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_16.png",
+            "trim": {
+              "x": 3,
+              "y": 852,
+              "width": 117,
+              "height": 51,
+              "rotatedWidth": 117,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 117,
+            "rawHeight": 51,
+            "width": 123,
+            "height": 57,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/11/11b6a853-41f9-48b2-8d96-dceaa4c922e3.png",
+            "x": 0,
+            "y": 849,
+            "rotatedWidth": 123,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "ui-mission-20",
+            "uuid": "de5bd690-7716-49e0-811b-b5a87737b32c",
+            "textureUuid": "4d3c9c50-e2b2-4486-a400-8fb8484f6830",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_34.png",
+            "trim": {
+              "x": 3,
+              "y": 909,
+              "width": 117,
+              "height": 51,
+              "rotatedWidth": 117,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 117,
+            "rawHeight": 51,
+            "width": 123,
+            "height": 57,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/4d/4d3c9c50-e2b2-4486-a400-8fb8484f6830.png",
+            "x": 0,
+            "y": 906,
+            "rotatedWidth": 123,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "ui-mission-05",
+            "uuid": "2ec9b550-3e2e-4c95-8e90-72cd51135784",
+            "textureUuid": "37b25636-6a50-4e4d-816d-1ce6196d2bc3",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_10.png",
+            "trim": {
+              "x": 126,
+              "y": 967,
+              "width": 34,
+              "height": 50,
+              "rotatedWidth": 34,
+              "rotatedHeight": 50
+            },
+            "rawWidth": 34,
+            "rawHeight": 50,
+            "width": 40,
+            "height": 56,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/37/37b25636-6a50-4e4d-816d-1ce6196d2bc3.png",
+            "x": 123,
+            "y": 964,
+            "rotatedWidth": 40,
+            "rotatedHeight": 56
+          },
+          {
+            "name": "ui-mission-24",
+            "uuid": "0d6488e9-85ba-4ab8-86e5-4796b4d92b0c",
+            "textureUuid": "d7149835-8b9c-48bb-8630-3bac00861bb2",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631250_image_2.png",
+            "trim": {
+              "x": 126,
+              "y": 857,
+              "width": 100,
+              "height": 47,
+              "rotatedWidth": 47,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 100,
+            "rawHeight": 47,
+            "width": 106,
+            "height": 53,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/d7/d7149835-8b9c-48bb-8630-3bac00861bb2.png",
+            "x": 123,
+            "y": 854,
+            "rotated": true,
+            "rotatedWidth": 53,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "reddot-mission-01",
+            "uuid": "eaee8da0-933c-44a1-9c08-9004bb4e4566",
+            "textureUuid": "505f8da0-53b9-45b6-b423-d73d4b594084",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_40.png",
+            "trim": {
+              "x": 172,
+              "y": 817,
+              "width": 34,
+              "height": 34,
+              "rotatedWidth": 34,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 34,
+            "rawHeight": 34,
+            "width": 40,
+            "height": 40,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/50/505f8da0-53b9-45b6-b423-d73d4b594084.png",
+            "x": 169,
+            "y": 814,
+            "rotatedWidth": 40,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "ui-exchange-17",
+            "uuid": "d7a883f7-1559-4f74-853d-97416651790d",
+            "textureUuid": "3cb99940-7bb5-4b59-b954-7f80915f4003",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_33.png",
+            "trim": {
+              "x": 166,
+              "y": 963,
+              "width": 58,
+              "height": 36,
+              "rotatedWidth": 36,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 58,
+            "rawHeight": 36,
+            "width": 64,
+            "height": 42,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/3c/3cb99940-7bb5-4b59-b954-7f80915f4003.png",
+            "x": 163,
+            "y": 960,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 64
+          },
+          {
+            "name": "ui-mission-25",
+            "uuid": "297303b5-7471-4b05-a874-b6c9ae79f2ec",
+            "textureUuid": "2ef5e254-7808-472a-bb0b-4dec69eb5d3d",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_8.png",
+            "trim": {
+              "x": 179,
+              "y": 857,
+              "width": 100,
+              "height": 47,
+              "rotatedWidth": 47,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 100,
+            "rawHeight": 47,
+            "width": 106,
+            "height": 53,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/2e/2ef5e254-7808-472a-bb0b-4dec69eb5d3d.png",
+            "x": 176,
+            "y": 854,
+            "rotated": true,
+            "rotatedWidth": 53,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "ui-mission-23",
+            "uuid": "a5b93754-2c0b-42b1-80d7-ae99dbad38b7",
+            "textureUuid": "148f222f-e3bd-4227-8ab5-1ee7074e52e7",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_27.png",
+            "trim": {
+              "x": 208,
+              "y": 963,
+              "width": 108,
+              "height": 55,
+              "rotatedWidth": 108,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 108,
+            "rawHeight": 55,
+            "width": 114,
+            "height": 61,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/14/148f222f-e3bd-4227-8ab5-1ee7074e52e7.png",
+            "x": 205,
+            "y": 960,
+            "rotatedWidth": 114,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "ui-mission-12",
+            "uuid": "18109b0f-8541-4bd5-af3a-1e88eb14e4e3",
+            "textureUuid": "2fa02cfe-a129-4ab9-b96c-1d234e5116dc",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631251_image_5.png",
+            "trim": {
+              "x": 322,
+              "y": 938,
+              "width": 67,
+              "height": 67,
+              "rotatedWidth": 67,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 67,
+            "rawHeight": 67,
+            "width": 73,
+            "height": 73,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/2f/2fa02cfe-a129-4ab9-b96c-1d234e5116dc.png",
+            "x": 319,
+            "y": 935,
+            "rotatedWidth": 73,
+            "rotatedHeight": 73
+          },
+          {
+            "name": "ui-mission-07",
+            "uuid": "e7852323-86d4-4d93-988e-a83e8a1d558f",
+            "textureUuid": "5a5ffeed-a078-408a-82df-0e68f2edefb8",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_37.png",
+            "trim": {
+              "x": 395,
+              "y": 967,
+              "width": 47,
+              "height": 44,
+              "rotatedWidth": 44,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 47,
+            "rawHeight": 44,
+            "width": 53,
+            "height": 50,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/5a/5a5ffeed-a078-408a-82df-0e68f2edefb8.png",
+            "x": 392,
+            "y": 964,
+            "rotated": true,
+            "rotatedWidth": 50,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "reddot-mission-02",
+            "uuid": "ea87cc53-8b18-49e0-b4b4-444b6588b3c8",
+            "textureUuid": "564cd715-9d38-4931-bd6c-6a21b589acbc",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631253_image_39.png",
+            "trim": {
+              "x": 445,
+              "y": 967,
+              "width": 45,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 45
+            },
+            "rawWidth": 45,
+            "rawHeight": 45,
+            "width": 51,
+            "height": 51,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/56/564cd715-9d38-4931-bd6c-6a21b589acbc.png",
+            "x": 442,
+            "y": 964,
+            "rotatedWidth": 51,
+            "rotatedHeight": 51
+          },
+          {
+            "name": "btn-reborn-share",
+            "uuid": "828af636-5fd8-4583-9d45-85e597bbde81",
+            "textureUuid": "2740208a-746d-4ddb-9fd9-4041a3c8027c",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122631252_image_21.png",
+            "trim": {
+              "x": 496,
+              "y": 967,
+              "width": 42,
+              "height": 44,
+              "rotatedWidth": 44,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 45,
+            "rawHeight": 44,
+            "width": 48,
+            "height": 50,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/27/2740208a-746d-4ddb-9fd9-4041a3c8027c.png",
+            "x": 493,
+            "y": 964,
+            "rotated": true,
+            "rotatedWidth": 50,
+            "rotatedHeight": 48
+          }
+        ],
+        "width": 545,
+        "height": 1024,
+        "name": "AutoAtlas-panelMission-1",
+        "imagePath": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\mainpage\\panelMission\\AutoAtlas-panelMission.pac\\AutoAtlas-panelMission-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\mainpage\\panelMission\\AutoAtlas-panelMission.pac\\compressed\\AutoAtlas-panelMission-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

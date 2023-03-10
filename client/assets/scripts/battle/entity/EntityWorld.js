@@ -19,6 +19,7 @@ const AdvertMgr = require('AdvertMgr');
 const AddEntitySystem = require('AddEntitySystem');
 const StageType = require('Types').StageType;
 const CustomFunnelEvent = require('Types').CustomFunnelEvent;
+const NFTUnLockType = require('Types').NFTUnLockType;
 
 cc.Class({
     extends: cc.Component,
@@ -342,7 +343,7 @@ cc.Class({
         }
         this.startLoadPrefab();
         if (PlayerData.instance.isFristGame()) {
-            this.onStartBtnClick(null,null);
+            this.onStartBtnClick(null, null);
         } else {
             this.refreshPanel();
         }
@@ -504,7 +505,7 @@ cc.Class({
         }
         PlatformMgr.reportAnalytics();
         this.isLoading = false;
-        if (this.touchStartGame) this.onStartBtnClick(null,null);
+        if (this.touchStartGame) this.onStartBtnClick(null, null);
     },
 
     refreshPanel: function () {
@@ -730,8 +731,8 @@ cc.Class({
         this.uiMgr.startLoadPrefab();
     },
 
-    onStartBtnClick: function (event,data) {
-        if(data && data=="1"){
+    onStartBtnClick: function (event, data) {
+        if (data && data == "1") {
             //通过按钮点击的，记录为点击开始事件
             //游戏开始（包括用户点击play按钮和点击角色游戏开始）
             AdvertMgr.instance.fireBaseEvent("game_start");
@@ -1027,15 +1028,31 @@ cc.Class({
             var func = () => {
                 //在展示购买皮肤面板前如果获得了其他皮肤，则本轮不展示
                 PlayerData.instance.showPanelBuySkinFlag = true;
+                PlayerData.instance.onGameOver(self.localPlayer);
 
                 if (PlayerData.instance.isFristGame()) {
                     PlatformMgr.notifyFunnelEvent(CustomFunnelEvent.GameOverPanel);
                 }
                 self.startGame = false;
                 self.localPlayer.stopControl();
-                self.uiMgr.openGameOverPanel();
-                PlayerData.instance.onGameOver(self.localPlayer);
+
+                //每次获胜弹出NFT
+                if (PlatformMgr.open_nft_moudle && PlayerData.instance.nftLock==0) {
+                    if (PlayerData.instance.playCount >= NFTUnLockType.PLAY_COUNT) {
+                        self.uiMgr.openPanelNFT(()=>{
+                            self.uiMgr.openGameOverPanel();
+                        })
+                    }
+                    else{
+                        self.uiMgr.openGameOverPanel();
+                    }
+                } else {
+                    self.uiMgr.openGameOverPanel();
+                }
             }
+
+            AdvertMgr.instance.showInterstitial();
+
             if (self.localPlayer.rank === 1 && !self.localPlayer.beKilled()) {
                 setTimeout(() => {
                     self.uiMgr.showPanelVictory();
@@ -1047,9 +1064,10 @@ cc.Class({
                     func();
                 }, 2000)
             } else {
-                func()
+                setTimeout(() => {
+                    func();
+                }, 2000)
             }
-
         }
 
         this.guideGameOverCallF = (() => {

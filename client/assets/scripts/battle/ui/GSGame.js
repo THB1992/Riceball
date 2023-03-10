@@ -20,6 +20,7 @@ const GSGame = cc.Class({
         panelTips: cc.Node,
         panelTaskNotice: cc.Node,
         panelVictory: cc.Node,
+        panelNFT: cc.Node,
         guideTime: 0,
         countDownNode: cc.Node,
         panelKill: cc.Node,
@@ -209,8 +210,16 @@ const GSGame = cc.Class({
             console.log("showBanner openGameOverPanel")
             AdvertMgr.instance.showBanner();
         }
+    },
 
-
+    openPanelNFT: function (callback) {
+        if (this.panelNFT) {
+            this.panelNFT.active = true;
+            this.panelNFT.getComponent('PanelNFT').init(this.world,callback);
+            this.panelNFT.getComponent('PanelNFT').setStatus("battle")
+            AdvertMgr.instance.fireBaseEvent("nft_page_show","page_id","settlement");
+            console.log("GSGame openPanelNFT")
+        }
     },
 
     showPanelTreasureBox: function () {
@@ -219,8 +228,6 @@ const GSGame = cc.Class({
             this.panelTreasureBox.getComponent('PanelTreasureBox').init(this.world);
         }
     },
-
-
 
     closeGameOverPanel: function () {
         if (this.gameOverPanel) {

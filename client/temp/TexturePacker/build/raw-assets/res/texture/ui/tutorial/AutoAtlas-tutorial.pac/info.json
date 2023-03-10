@@ -1,0 +1,1023 @@
+{
+  "mtimes": {
+    "bc1dbb1b-e359-4eb7-9fbf-4f317f83d15b": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422945
+    },
+    "011089da-2659-4b66-bdea-2872c616613e": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423107
+    },
+    "9f1ea74f-15ad-499f-9a43-cd4d9e381270": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423107
+    },
+    "1337d772-fafa-4a48-be75-21c6eccda109": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423012
+    },
+    "eddf0230-2713-4330-bfe4-913c38b7bedf": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423012
+    },
+    "1c05eeac-b6e5-48ca-9945-dc3c724f17e4": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422987
+    },
+    "3ee2cba8-5894-481f-8cff-965e8a60b599": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422987
+    },
+    "1d79299d-5367-4fc1-80d2-3c4e9d2a9743": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423140
+    },
+    "7c7b48de-cb45-43ec-ac2a-f8e48d299d7d": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423140
+    },
+    "24d40125-404b-4045-8f1d-a7ca7c51283a": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423139
+    },
+    "11826bb5-f8b1-4917-b9f1-19fa93fc3527": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423139
+    },
+    "352520e4-6ee6-438d-bd92-43ec487cd6ac": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423072
+    },
+    "029636d5-4cdf-4a59-a423-0330c47d9375": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423072
+    },
+    "35353030-b25d-4fa4-9440-1aadadee0ae2": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423023
+    },
+    "8e82728a-2bc7-476e-a6de-5d896d8cb9f7": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423023
+    },
+    "3629deec-c591-435f-b68b-849b60f829a6": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423095
+    },
+    "c386b898-c93b-4701-8a66-ad90558ad1b8": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423095
+    },
+    "36b69b21-6128-46e5-aa10-1fa2d59991ba": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423157
+    },
+    "2fe9df6f-d077-44ec-a735-7e92e696ac01": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423157
+    },
+    "3b342472-d7b0-4a5a-83e2-4e6ab41f2602": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423128
+    },
+    "cac4e832-fc4a-4e2e-8c33-8384d82503c8": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423128
+    },
+    "4601ebe3-0afe-428f-ac51-c7d9ecfa23e3": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423060
+    },
+    "f2c2e1a2-29cf-440c-af68-fadad459d4c7": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423060
+    },
+    "55253d25-ba63-41d1-95f3-8d3fb81d923d": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422971
+    },
+    "263577d2-5113-4b7d-914a-d7f11871d166": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422971
+    },
+    "63726b03-2341-4df4-a960-961085769078": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423039
+    },
+    "48f9fbcc-96e1-4f4d-8a78-794527bb8838": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423039
+    },
+    "658a722e-1b9d-4200-80a9-a4d2ad976c17": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423011
+    },
+    "7b8b2303-40c3-4ce1-81fe-54b1300f134b": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423011
+    },
+    "663e3ca1-bfa3-4a28-a6c3-abba8fb00c08": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423001
+    },
+    "5c9c83bf-5770-40fa-8d6b-266a24ff61a0": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423001
+    },
+    "76ebe21b-bc7a-4937-bb30-b838e4be6ca9": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423127
+    },
+    "2a13b748-831d-4fe9-a0d7-60ef35a44619": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423127
+    },
+    "77ae5164-0166-4708-b84b-a0f6494039f1": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423049
+    },
+    "19c5c3f3-511f-49bf-b4eb-c7aa34bd31a2": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423049
+    },
+    "7ae33780-e74e-4d8d-87af-7f366d999c1c": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423117
+    },
+    "ccaa915a-787a-4bb9-be13-db6d25206d5d": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423117
+    },
+    "81d68d64-90a5-4fe4-96e3-567e1379a7e1": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423073
+    },
+    "84ca81f0-226d-45c3-ba1f-20ff31229550": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423073
+    },
+    "82494fd1-09a7-49f0-a456-44cc29e4d528": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423061
+    },
+    "a6359cd6-b1be-44a1-bcbb-cc3f01df118d": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423061
+    },
+    "85107f7e-c7f4-4be0-90f7-8bd3a93e582f": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423038
+    },
+    "86074203-462a-4464-891c-cf7de65dc8b5": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423038
+    },
+    "8729ccd6-dc73-473c-85b4-8bf66c5ce786": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423083
+    },
+    "2246fe2b-6977-4c25-ac1c-c0e603b18acc": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423083
+    },
+    "8f3e1b93-b4da-432a-9322-f714a1f30aed": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423105
+    },
+    "a5df6793-8b52-4ef9-ace9-e13f678df6e1": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423105
+    },
+    "a1ff05fc-8fe8-4c5a-8994-501e5628a067": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423094
+    },
+    "b693a7a2-1db1-445b-86dd-5c0fa08db219": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423094
+    },
+    "be7b9914-c5ed-4667-97be-9926f1b8e0c3": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422986
+    },
+    "e6141a84-4db1-49f7-9214-1cfb7e992457": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422986
+    },
+    "c36fb1ec-ce37-443b-ae78-14e5d4f92450": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423025
+    },
+    "a8a23f4b-4d12-4966-b4d2-285181ab1579": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423025
+    },
+    "e3c423ee-bc0f-4834-a8cd-c8648945cf30": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423002
+    },
+    "d18abb83-72cc-4bd2-9a1b-86c3e834e7d4": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423002
+    },
+    "f06703ed-e3aa-41dc-9b08-1557c1d2b3c6": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423084
+    },
+    "d3e8e303-4215-4fa8-86e8-c41d8c52edd4": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423084
+    },
+    "f301f1b6-c287-42f4-9b2a-7932f7c2ef8b": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423118
+    },
+    "4050c4c4-1f4f-4a40-bc7a-2defb9415873": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423118
+    },
+    "f370def5-03d0-405e-a381-208650519e2e": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422972
+    },
+    "d764b96e-731d-47eb-b67b-3bd54684b54e": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122422972
+    },
+    "ffbac188-fc02-40b5-9d76-06e3de1dd5e0": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423050
+    },
+    "6a9ff262-fdcc-42fc-b177-bf8fa26975a5": {
+      "assetMtime": 1673253507000,
+      "metaMtime": 1674122423050
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-tutorial",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "bc1dbb1b-e359-4eb7-9fbf-4f317f83d15b",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "ui-tutorialstage-06",
+            "uuid": "011089da-2659-4b66-bdea-2872c616613e",
+            "textureUuid": "9f1ea74f-15ad-499f-9a43-cd4d9e381270",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638127_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 464,
+              "height": 86,
+              "rotatedWidth": 464,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 464,
+            "rawHeight": 86,
+            "width": 470,
+            "height": 92,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/9f/9f1ea74f-15ad-499f-9a43-cd4d9e381270.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 470,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "time-countdown-01",
+            "uuid": "1c05eeac-b6e5-48ca-9945-dc3c724f17e4",
+            "textureUuid": "3ee2cba8-5894-481f-8cff-965e8a60b599",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638127_image_2.png",
+            "trim": {
+              "x": 473,
+              "y": 3,
+              "width": 491,
+              "height": 77,
+              "rotatedWidth": 77,
+              "rotatedHeight": 491
+            },
+            "rawWidth": 491,
+            "rawHeight": 77,
+            "width": 497,
+            "height": 83,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/3e/3ee2cba8-5894-481f-8cff-965e8a60b599.png",
+            "x": 470,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 83,
+            "rotatedHeight": 497
+          },
+          {
+            "name": "time-countdown-02",
+            "uuid": "e3c423ee-bc0f-4834-a8cd-c8648945cf30",
+            "textureUuid": "d18abb83-72cc-4bd2-9a1b-86c3e834e7d4",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_26.png",
+            "trim": {
+              "x": 556,
+              "y": 3,
+              "width": 491,
+              "height": 77,
+              "rotatedWidth": 77,
+              "rotatedHeight": 491
+            },
+            "rawWidth": 491,
+            "rawHeight": 77,
+            "width": 497,
+            "height": 83,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/d1/d18abb83-72cc-4bd2-9a1b-86c3e834e7d4.png",
+            "x": 553,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 83,
+            "rotatedHeight": 497
+          },
+          {
+            "name": "tutorial-infinity",
+            "uuid": "663e3ca1-bfa3-4a28-a6c3-abba8fb00c08",
+            "textureUuid": "5c9c83bf-5770-40fa-8d6b-266a24ff61a0",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_14.png",
+            "trim": {
+              "x": 639,
+              "y": 3,
+              "width": 289,
+              "height": 122,
+              "rotatedWidth": 122,
+              "rotatedHeight": 289
+            },
+            "rawWidth": 289,
+            "rawHeight": 122,
+            "width": 295,
+            "height": 128,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/5c/5c9c83bf-5770-40fa-8d6b-266a24ff61a0.png",
+            "x": 636,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 128,
+            "rotatedHeight": 295
+          },
+          {
+            "name": "tutorial-toptips-08",
+            "uuid": "352520e4-6ee6-438d-bd92-43ec487cd6ac",
+            "textureUuid": "029636d5-4cdf-4a59-a423-0330c47d9375",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638127_image_5.png",
+            "trim": {
+              "x": 767,
+              "y": 3,
+              "width": 602,
+              "height": 49,
+              "rotatedWidth": 49,
+              "rotatedHeight": 602
+            },
+            "rawWidth": 602,
+            "rawHeight": 49,
+            "width": 608,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/02/029636d5-4cdf-4a59-a423-0330c47d9375.png",
+            "x": 764,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 55,
+            "rotatedHeight": 608
+          },
+          {
+            "name": "ui-tutorialstage-03",
+            "uuid": "a1ff05fc-8fe8-4c5a-8994-501e5628a067",
+            "textureUuid": "b693a7a2-1db1-445b-86dd-5c0fa08db219",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_23.png",
+            "trim": {
+              "x": 639,
+              "y": 298,
+              "width": 256,
+              "height": 110,
+              "rotatedWidth": 110,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 110,
+            "width": 262,
+            "height": 116,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/b6/b693a7a2-1db1-445b-86dd-5c0fa08db219.png",
+            "x": 636,
+            "y": 295,
+            "rotated": true,
+            "rotatedWidth": 116,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "tutorial-toptips-06",
+            "uuid": "82494fd1-09a7-49f0-a456-44cc29e4d528",
+            "textureUuid": "a6359cd6-b1be-44a1-bcbb-cc3f01df118d",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_19.png",
+            "trim": {
+              "x": 3,
+              "y": 611,
+              "width": 560,
+              "height": 49,
+              "rotatedWidth": 560,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 560,
+            "rawHeight": 49,
+            "width": 566,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/a6/a6359cd6-b1be-44a1-bcbb-cc3f01df118d.png",
+            "x": 0,
+            "y": 608,
+            "rotatedWidth": 566,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "tutorial-tips-01",
+            "uuid": "1337d772-fafa-4a48-be75-21c6eccda109",
+            "textureUuid": "eddf0230-2713-4330-bfe4-913c38b7bedf",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638127_image_1.png",
+            "trim": {
+              "x": 569,
+              "y": 500,
+              "width": 304,
+              "height": 49,
+              "rotatedWidth": 49,
+              "rotatedHeight": 304
+            },
+            "rawWidth": 304,
+            "rawHeight": 49,
+            "width": 310,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/ed/eddf0230-2713-4330-bfe4-913c38b7bedf.png",
+            "x": 566,
+            "y": 497,
+            "rotated": true,
+            "rotatedWidth": 55,
+            "rotatedHeight": 310
+          },
+          {
+            "name": "effect-tutorialstage-03",
+            "uuid": "be7b9914-c5ed-4667-97be-9926f1b8e0c3",
+            "textureUuid": "e6141a84-4db1-49f7-9214-1cfb7e992457",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_24.png",
+            "trim": {
+              "x": 624,
+              "y": 560,
+              "width": 121,
+              "height": 121,
+              "rotatedWidth": 121,
+              "rotatedHeight": 121
+            },
+            "rawWidth": 121,
+            "rawHeight": 121,
+            "width": 127,
+            "height": 127,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/e6/e6141a84-4db1-49f7-9214-1cfb7e992457.png",
+            "x": 621,
+            "y": 557,
+            "rotatedWidth": 127,
+            "rotatedHeight": 127
+          },
+          {
+            "name": "ui-tutorialstage-09",
+            "uuid": "3b342472-d7b0-4a5a-83e2-4e6ab41f2602",
+            "textureUuid": "cac4e832-fc4a-4e2e-8c33-8384d82503c8",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_9.png",
+            "trim": {
+              "x": 751,
+              "y": 611,
+              "width": 210,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 210
+            },
+            "rawWidth": 210,
+            "rawHeight": 64,
+            "width": 216,
+            "height": 70,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/ca/cac4e832-fc4a-4e2e-8c33-8384d82503c8.png",
+            "x": 748,
+            "y": 608,
+            "rotated": true,
+            "rotatedWidth": 70,
+            "rotatedHeight": 216
+          },
+          {
+            "name": "ui-tutorialstage-02",
+            "uuid": "f06703ed-e3aa-41dc-9b08-1557c1d2b3c6",
+            "textureUuid": "d3e8e303-4215-4fa8-86e8-c41d8c52edd4",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_27.png",
+            "trim": {
+              "x": 624,
+              "y": 687,
+              "width": 128,
+              "height": 110,
+              "rotatedWidth": 110,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 110,
+            "width": 134,
+            "height": 116,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/d3/d3e8e303-4215-4fa8-86e8-c41d8c52edd4.png",
+            "x": 621,
+            "y": 684,
+            "rotated": true,
+            "rotatedWidth": 116,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "tutorial-toptips-07",
+            "uuid": "4601ebe3-0afe-428f-ac51-c7d9ecfa23e3",
+            "textureUuid": "f2c2e1a2-29cf-440c-af68-fadad459d4c7",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_10.png",
+            "trim": {
+              "x": 3,
+              "y": 500,
+              "width": 554,
+              "height": 49,
+              "rotatedWidth": 554,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 554,
+            "rawHeight": 49,
+            "width": 560,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/f2/f2c2e1a2-29cf-440c-af68-fadad459d4c7.png",
+            "x": 0,
+            "y": 497,
+            "rotatedWidth": 560,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "tutorial-toptips-03",
+            "uuid": "85107f7e-c7f4-4be0-90f7-8bd3a93e582f",
+            "textureUuid": "86074203-462a-4464-891c-cf7de65dc8b5",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_20.png",
+            "trim": {
+              "x": 3,
+              "y": 555,
+              "width": 482,
+              "height": 49,
+              "rotatedWidth": 482,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 482,
+            "rawHeight": 49,
+            "width": 488,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/86/86074203-462a-4464-891c-cf7de65dc8b5.png",
+            "x": 0,
+            "y": 552,
+            "rotatedWidth": 488,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "tutorial-toptips-09",
+            "uuid": "81d68d64-90a5-4fe4-96e3-567e1379a7e1",
+            "textureUuid": "84ca81f0-226d-45c3-ba1f-20ff31229550",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_18.png",
+            "trim": {
+              "x": 3,
+              "y": 666,
+              "width": 472,
+              "height": 49,
+              "rotatedWidth": 472,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 472,
+            "rawHeight": 49,
+            "width": 478,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/84/84ca81f0-226d-45c3-ba1f-20ff31229550.png",
+            "x": 0,
+            "y": 663,
+            "rotatedWidth": 478,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "ui-tutorialstage-08",
+            "uuid": "f301f1b6-c287-42f4-9b2a-7932f7c2ef8b",
+            "textureUuid": "4050c4c4-1f4f-4a40-bc7a-2defb9415873",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_28.png",
+            "trim": {
+              "x": 481,
+              "y": 666,
+              "width": 89,
+              "height": 80,
+              "rotatedWidth": 80,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 89,
+            "rawHeight": 80,
+            "width": 95,
+            "height": 86,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/40/4050c4c4-1f4f-4a40-bc7a-2defb9415873.png",
+            "x": 478,
+            "y": 663,
+            "rotated": true,
+            "rotatedWidth": 86,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "tutorial-toptips-05",
+            "uuid": "77ae5164-0166-4708-b84b-a0f6494039f1",
+            "textureUuid": "19c5c3f3-511f-49bf-b4eb-c7aa34bd31a2",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_16.png",
+            "trim": {
+              "x": 3,
+              "y": 761,
+              "width": 464,
+              "height": 49,
+              "rotatedWidth": 464,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 464,
+            "rawHeight": 49,
+            "width": 470,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/19/19c5c3f3-511f-49bf-b4eb-c7aa34bd31a2.png",
+            "x": 0,
+            "y": 758,
+            "rotatedWidth": 470,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "ui-tutorialstage-04",
+            "uuid": "3629deec-c591-435f-b68b-849b60f829a6",
+            "textureUuid": "c386b898-c93b-4701-8a66-ad90558ad1b8",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_7.png",
+            "trim": {
+              "x": 473,
+              "y": 761,
+              "width": 64,
+              "height": 57,
+              "rotatedWidth": 64,
+              "rotatedHeight": 57
+            },
+            "rawWidth": 64,
+            "rawHeight": 57,
+            "width": 70,
+            "height": 63,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/c3/c386b898-c93b-4701-8a66-ad90558ad1b8.png",
+            "x": 470,
+            "y": 758,
+            "rotatedWidth": 70,
+            "rotatedHeight": 63
+          },
+          {
+            "name": "ui-tutorialstage-11",
+            "uuid": "1d79299d-5367-4fc1-80d2-3c4e9d2a9743",
+            "textureUuid": "7c7b48de-cb45-43ec-ac2a-f8e48d299d7d",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638127_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 721,
+              "width": 229,
+              "height": 19,
+              "rotatedWidth": 229,
+              "rotatedHeight": 19
+            },
+            "rawWidth": 229,
+            "rawHeight": 19,
+            "width": 235,
+            "height": 25,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/7c/7c7b48de-cb45-43ec-ac2a-f8e48d299d7d.png",
+            "x": 0,
+            "y": 718,
+            "rotatedWidth": 235,
+            "rotatedHeight": 25
+          },
+          {
+            "name": "ui-tutorialstage-13",
+            "uuid": "36b69b21-6128-46e5-aa10-1fa2d59991ba",
+            "textureUuid": "2fe9df6f-d077-44ec-a735-7e92e696ac01",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_8.png",
+            "trim": {
+              "x": 238,
+              "y": 721,
+              "width": 199,
+              "height": 19,
+              "rotatedWidth": 199,
+              "rotatedHeight": 19
+            },
+            "rawWidth": 199,
+            "rawHeight": 19,
+            "width": 205,
+            "height": 25,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/2f/2fe9df6f-d077-44ec-a735-7e92e696ac01.png",
+            "x": 235,
+            "y": 718,
+            "rotatedWidth": 205,
+            "rotatedHeight": 25
+          },
+          {
+            "name": "tutorial-toptips-04",
+            "uuid": "ffbac188-fc02-40b5-9d76-06e3de1dd5e0",
+            "textureUuid": "6a9ff262-fdcc-42fc-b177-bf8fa26975a5",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_30.png",
+            "trim": {
+              "x": 3,
+              "y": 95,
+              "width": 428,
+              "height": 49,
+              "rotatedWidth": 428,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 428,
+            "rawHeight": 49,
+            "width": 434,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/6a/6a9ff262-fdcc-42fc-b177-bf8fa26975a5.png",
+            "x": 0,
+            "y": 92,
+            "rotatedWidth": 434,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "ui-tutorialstage-12",
+            "uuid": "24d40125-404b-4045-8f1d-a7ca7c51283a",
+            "textureUuid": "11826bb5-f8b1-4917-b9f1-19fa93fc3527",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638127_image_4.png",
+            "trim": {
+              "x": 437,
+              "y": 95,
+              "width": 193,
+              "height": 19,
+              "rotatedWidth": 19,
+              "rotatedHeight": 193
+            },
+            "rawWidth": 193,
+            "rawHeight": 19,
+            "width": 199,
+            "height": 25,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/11/11826bb5-f8b1-4917-b9f1-19fa93fc3527.png",
+            "x": 434,
+            "y": 92,
+            "rotated": true,
+            "rotatedWidth": 25,
+            "rotatedHeight": 199
+          },
+          {
+            "name": "tutorial-toptips-02",
+            "uuid": "63726b03-2341-4df4-a960-961085769078",
+            "textureUuid": "48f9fbcc-96e1-4f4d-8a78-794527bb8838",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_12.png",
+            "trim": {
+              "x": 3,
+              "y": 294,
+              "width": 410,
+              "height": 49,
+              "rotatedWidth": 410,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 410,
+            "rawHeight": 49,
+            "width": 416,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/48/48f9fbcc-96e1-4f4d-8a78-794527bb8838.png",
+            "x": 0,
+            "y": 291,
+            "rotatedWidth": 416,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "tutorial-tips-02",
+            "uuid": "35353030-b25d-4fa4-9440-1aadadee0ae2",
+            "textureUuid": "8e82728a-2bc7-476e-a6de-5d896d8cb9f7",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_6.png",
+            "trim": {
+              "x": 3,
+              "y": 150,
+              "width": 352,
+              "height": 49,
+              "rotatedWidth": 352,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 352,
+            "rawHeight": 49,
+            "width": 358,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/8e/8e82728a-2bc7-476e-a6de-5d896d8cb9f7.png",
+            "x": 0,
+            "y": 147,
+            "rotatedWidth": 358,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "tutorial-round",
+            "uuid": "658a722e-1b9d-4200-80a9-a4d2ad976c17",
+            "textureUuid": "7b8b2303-40c3-4ce1-81fe-54b1300f134b",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_13.png",
+            "trim": {
+              "x": 361,
+              "y": 150,
+              "width": 65,
+              "height": 86,
+              "rotatedWidth": 65,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 65,
+            "rawHeight": 86,
+            "width": 71,
+            "height": 92,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/7b/7b8b2303-40c3-4ce1-81fe-54b1300f134b.png",
+            "x": 358,
+            "y": 147,
+            "rotatedWidth": 71,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "effect-tutorialstage-02",
+            "uuid": "f370def5-03d0-405e-a381-208650519e2e",
+            "textureUuid": "d764b96e-731d-47eb-b67b-3bd54684b54e",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_29.png",
+            "trim": {
+              "x": 3,
+              "y": 242,
+              "width": 267,
+              "height": 41,
+              "rotatedWidth": 267,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 267,
+            "rawHeight": 41,
+            "width": 273,
+            "height": 47,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/d7/d764b96e-731d-47eb-b67b-3bd54684b54e.png",
+            "x": 0,
+            "y": 239,
+            "rotatedWidth": 273,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "ui-tutorialstage-07",
+            "uuid": "7ae33780-e74e-4d8d-87af-7f366d999c1c",
+            "textureUuid": "ccaa915a-787a-4bb9-be13-db6d25206d5d",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_17.png",
+            "trim": {
+              "x": 276,
+              "y": 205,
+              "width": 76,
+              "height": 69,
+              "rotatedWidth": 76,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 76,
+            "rawHeight": 69,
+            "width": 82,
+            "height": 75,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/cc/ccaa915a-787a-4bb9-be13-db6d25206d5d.png",
+            "x": 273,
+            "y": 202,
+            "rotatedWidth": 82,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "ui-tutorialstage-05",
+            "uuid": "8f3e1b93-b4da-432a-9322-f714a1f30aed",
+            "textureUuid": "a5df6793-8b52-4ef9-ace9-e13f678df6e1",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_22.png",
+            "trim": {
+              "x": 3,
+              "y": 205,
+              "width": 202,
+              "height": 14,
+              "rotatedWidth": 202,
+              "rotatedHeight": 14
+            },
+            "rawWidth": 202,
+            "rawHeight": 14,
+            "width": 208,
+            "height": 20,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/a5/a5df6793-8b52-4ef9-ace9-e13f678df6e1.png",
+            "x": 0,
+            "y": 202,
+            "rotatedWidth": 208,
+            "rotatedHeight": 20
+          },
+          {
+            "name": "tutorial-toptips-01",
+            "uuid": "c36fb1ec-ce37-443b-ae78-14e5d4f92450",
+            "textureUuid": "a8a23f4b-4d12-4966-b4d2-285181ab1579",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_25.png",
+            "trim": {
+              "x": 3,
+              "y": 349,
+              "width": 352,
+              "height": 49,
+              "rotatedWidth": 352,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 352,
+            "rawHeight": 49,
+            "width": 358,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/a8/a8a23f4b-4d12-4966-b4d2-285181ab1579.png",
+            "x": 0,
+            "y": 346,
+            "rotatedWidth": 358,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "effect-tutorialstage-01",
+            "uuid": "55253d25-ba63-41d1-95f3-8d3fb81d923d",
+            "textureUuid": "263577d2-5113-4b7d-914a-d7f11871d166",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_11.png",
+            "trim": {
+              "x": 361,
+              "y": 349,
+              "width": 125,
+              "height": 100,
+              "rotatedWidth": 100,
+              "rotatedHeight": 125
+            },
+            "rawWidth": 125,
+            "rawHeight": 100,
+            "width": 131,
+            "height": 106,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/26/263577d2-5113-4b7d-914a-d7f11871d166.png",
+            "x": 358,
+            "y": 346,
+            "rotated": true,
+            "rotatedWidth": 106,
+            "rotatedHeight": 131
+          },
+          {
+            "name": "ui-tutorialstage-01",
+            "uuid": "8729ccd6-dc73-473c-85b4-8bf66c5ce786",
+            "textureUuid": "2246fe2b-6977-4c25-ac1c-c0e603b18acc",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638129_image_21.png",
+            "trim": {
+              "x": 3,
+              "y": 404,
+              "width": 274,
+              "height": 49,
+              "rotatedWidth": 274,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 274,
+            "rawHeight": 49,
+            "width": 280,
+            "height": 55,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/22/2246fe2b-6977-4c25-ac1c-c0e603b18acc.png",
+            "x": 0,
+            "y": 401,
+            "rotatedWidth": 280,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "ui-tutorialstage-10",
+            "uuid": "76ebe21b-bc7a-4937-bb30-b838e4be6ca9",
+            "textureUuid": "2a13b748-831d-4fe9-a0d7-60ef35a44619",
+            "path": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\trimImages\\spritesheet_js_1674122638128_image_15.png",
+            "trim": {
+              "x": 283,
+              "y": 404,
+              "width": 77,
+              "height": 68,
+              "rotatedWidth": 68,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 77,
+            "rawHeight": 68,
+            "width": 83,
+            "height": 74,
+            "originalPath": "D:/knife666-outsea/knife666-outsea/client/library/imports/2a/2a13b748-831d-4fe9-a0d7-60ef35a44619.png",
+            "x": 280,
+            "y": 401,
+            "rotated": true,
+            "rotatedWidth": 74,
+            "rotatedHeight": 83
+          }
+        ],
+        "width": 819,
+        "height": 824,
+        "name": "AutoAtlas-tutorial-1",
+        "imagePath": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\tutorial\\AutoAtlas-tutorial.pac\\AutoAtlas-tutorial-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\knife666-outsea\\knife666-outsea\\client\\temp\\TexturePacker\\build\\raw-assets\\res\\texture\\ui\\tutorial\\AutoAtlas-tutorial.pac\\compressed\\AutoAtlas-tutorial-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

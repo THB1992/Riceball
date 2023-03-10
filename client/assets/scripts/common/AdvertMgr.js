@@ -84,9 +84,10 @@ const AdvertMgr = cc.Class({
 
         //链接bitverse钱包结果
         onBitVerseConnectCallBack: function (adress) {
-            console.log(" onBitVerseConnectCallBack ", adress)
             //记录revenue的值
             PlayerData.instance.bitverseWallet = adress
+            AdvertMgr.instance.fireBaseEvent("wallet_signedin")
+            console.log("--> onBitVerseConnectCallBack ", adress,PlayerData.instance.bitverseWallet)
         },
     },
 
@@ -163,6 +164,7 @@ const AdvertMgr = cc.Class({
     },
 
     showUITips:function(str){
+        console.log("showUITips str==>",str)
         this.uiMgr.showTips(str);
     },
 
@@ -528,7 +530,6 @@ const AdvertMgr = cc.Class({
             }
             break;
         case PlatformType.IOS: {
-
             jsb.reflection.callStaticMethod("AdManage", "showInterstitialAd");
         }
         break;

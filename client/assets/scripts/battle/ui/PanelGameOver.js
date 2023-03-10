@@ -653,9 +653,9 @@ cc.Class({
         // AdvertMgr.instance.destoryBanner();
         // PlatformMgr.closeMiniOpenDataContext();
         // if (PlayerData.instance.playCount % 2 === 0) 
-        {
-            AdvertMgr.instance.showInterstitial();
-        }
+        // {
+            // AdvertMgr.instance.showInterstitial();
+        // }
     },
     // update (dt) {},
 

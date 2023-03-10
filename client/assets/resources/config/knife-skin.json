@@ -608,5 +608,23 @@
     "property": 0,
     "propertyParam": 22,
     "propertyTips": "Dodge+22%"
+  },
+  {
+    "id": 101,
+    "sort": 39,
+    "quality": 8,
+    "name": "NFT2",
+    "url": "texture/weapon/dao201",
+    "getWay": 100,
+    "priceType": 0,
+    "price": 0,
+    "introduce": "Link wallet to get free !",
+    "initKnifeCount": 8,
+    "property": 0,
+    "propertyParam": 20,
+    "propertyTips": "Dodge+20%",
+    "goodsId" : 102,
+    "goodsName" : "weapon#002",
+    "token" : "87391307324056457762808332143355011852238642475825273327608161606536796308456"
   }
 ]

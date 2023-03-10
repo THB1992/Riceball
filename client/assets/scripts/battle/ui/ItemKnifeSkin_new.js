@@ -4,7 +4,6 @@
  */
 const ListItemBase = require('ListItemBase')
 const Tools = require('Tools');
-const PlatformMgr = require('PlatformMgr');
 
 cc.Class({
     extends: ListItemBase,
@@ -26,6 +25,7 @@ cc.Class({
         propertyLabel: cc.Label,
 
         newNode: cc.Node,
+        newIconNFT : cc.Node,
 
         goldIcon: cc.Node,
         diamondIcon: cc.Node,
@@ -80,7 +80,9 @@ cc.Class({
         this.propertyNode.active = this.data.propertyTips ? true : false;
         // this.propertyNode.y = isGet ? -50 : 50;
         this.suitNode.y = isGet || canUnLock ? -50 : -10;
-        this.newNode.active = !isGet && isNew ? true : false;
+
+        this.newNode.active = !isGet && (isNew || this.data.getWay==100) ? true : false;
+        this.newIconNFT.active = this.data.getWay==100
         if (processStr || processStr === '') {
             var one = this.data.taskShortOne ? this.data.taskShortOne : '';
             var two = this.data.taskShortTwo ? this.data.taskShortTwo : '';
